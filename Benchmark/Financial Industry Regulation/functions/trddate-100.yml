@@ -1,0 +1,138 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  trddate2:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate3:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate4:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate5:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate6:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate7:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate8:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate9:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate10:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate11:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate12:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate13:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate14:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate15:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate16:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate17:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate18:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate19:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  trddate20:
+    lang: python3-flask
+    handler: ./trddate
+    image: trddate:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"

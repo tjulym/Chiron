@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  factorial-java:
+    lang: java11
+    handler: ./factorial-java
+    image: factorial-java:latest
+    labels:
+      "com.openfaas.scale.max": "1"

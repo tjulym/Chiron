@@ -1,0 +1,2 @@
+language: python3-flask-debian-wrap
+fprocess: python index.py

@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  post-storage:
+    lang: python3-flask
+    handler: ./post-storage
+    image: post-storage:latest
+    labels:
+      "com.openfaas.scale.max": "1"

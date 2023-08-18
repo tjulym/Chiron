@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  upload-user-mentions:
+    lang: python3-flask
+    handler: ./upload-user-mentions
+    image: upload-user-mentions:latest
+    labels:
+      "com.openfaas.scale.max": "1"

@@ -1,0 +1,8 @@
+flask
+waitress
+requests
+matplotlib
+pandas
+seaborn
+
+

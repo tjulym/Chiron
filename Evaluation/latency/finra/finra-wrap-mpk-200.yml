@@ -1,0 +1,159 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  finra-wrap:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap2:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap3:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap4:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap5:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap6:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap7:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap8:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap9:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap10:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap11:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap12:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap13:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"
+  finra-wrap14:
+    lang: python3-mpk
+    handler: ./finra-wrap-mpk
+    image: finra-wrap-mpk:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.max": "1"

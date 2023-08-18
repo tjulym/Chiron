@@ -1,0 +1,16 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  mr-db-op:
+    lang: python3-flask
+    handler: ./mr-db-op
+    image: mr-db-op:latest
+    environment:
+      write_timeout: 3m
+      read_timeout: 3m
+      exec_timeout: 3m
+      handler_wait_duration: 3m
+    labels:
+      "com.openfaas.scale.max": "1"

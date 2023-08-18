@@ -1,0 +1,68 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  volume2:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume3:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume4:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume5:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume6:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume7:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume8:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume9:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  volume10:
+    lang: python3-flask
+    handler: ./volume
+    image: volume:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"

@@ -1,0 +1,68 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  side2:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side3:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side4:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side5:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side6:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side7:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side8:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side9:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side10:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"

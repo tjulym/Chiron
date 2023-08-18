@@ -1,0 +1,278 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  side2:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side3:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side4:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side5:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side6:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side7:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side8:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side9:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side10:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side11:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side12:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side13:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side14:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side15:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side16:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side17:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side18:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side19:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side20:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side21:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side22:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side23:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side24:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side25:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side26:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side27:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side28:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side29:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side30:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side31:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side32:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side33:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side34:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side35:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side36:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side37:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side38:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side39:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  side40:
+    lang: python3-flask
+    handler: ./side
+    image: side:latest
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"

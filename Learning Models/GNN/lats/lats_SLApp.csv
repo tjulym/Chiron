@@ -1,0 +1,975 @@
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	163.69
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	166.56
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	181.96
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	163.33
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	163.23
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	164.86
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	159.7
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	161.6
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	157.82
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	161.37
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	156.4
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	172.63
+{"parallel": [["factorial"], ["fibonacci"], ["networkio"]]}	SLApp	175.19
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	163.62
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	161.78
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	180.47
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	160.26
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	162.15
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	162.39
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	156.65
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.61
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	155.2
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	158.46
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	153.27
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	172.73
+{"parallel": [["factorial"], ["networkio"], ["fibonacci"]]}	SLApp	172.4
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	178.6
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	187.4
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	199.0
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	181.59
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	178.81
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	184.26
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	177.53
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	177.08
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	174.69
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	180.2
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pi"]]}	SLApp	176.28
+{"parallel": [["factorial"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	197.24
+{"parallel": [["factorial"], ["fibonacci", "networkio"]]}	SLApp	194.2
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	165.63
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	163.15
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	183.16
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	163.31
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	163.66
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	164.38
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	162.58
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	156.4
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	157.04
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	159.36
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	155.43
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	171.58
+{"parallel": [["fibonacci"], ["factorial"], ["networkio"]]}	SLApp	169.6
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	161.07
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	157.33
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	177.23
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	162.3
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	157.17
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.99
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	152.63
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	156.14
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.82
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	156.44
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	149.94
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	171.64
+{"parallel": [["fibonacci"], ["networkio"], ["factorial"]]}	SLApp	166.83
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	183.61
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	179.19
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	201.2
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	180.08
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	186.97
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	183.51
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	175.97
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	183.96
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	177.1
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	179.48
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pi"]]}	SLApp	174.29
+{"parallel": [["fibonacci"], ["factorial", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	194.92
+{"parallel": [["fibonacci"], ["factorial", "networkio"]]}	SLApp	194.86
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.67
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	152.34
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	177.76
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	157.7
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.23
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	153.32
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	149.33
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	153.11
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	148.5
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	155.02
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	149.62
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	170.1
+{"parallel": [["networkio"], ["factorial"], ["fibonacci"]]}	SLApp	164.95
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	153.42
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.74
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	172.25
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.08
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	155.82
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	154.7
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	150.73
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.53
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	148.13
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	150.46
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	150.23
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	167.31
+{"parallel": [["networkio"], ["fibonacci"], ["factorial"]]}	SLApp	161.0
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.28
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	152.56
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	178.22
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	155.83
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.56
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	155.6
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	150.75
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.92
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	147.52
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	155.64
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	151.46
+{"parallel": [["networkio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	172.56
+{"parallel": [["networkio"], ["factorial", "fibonacci"]]}	SLApp	167.67
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.06
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	155.06
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	175.32
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.45
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.74
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	154.67
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	153.41
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.11
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.04
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	152.31
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	153.3
+{"parallel": [["factorial", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	175.81
+{"parallel": [["factorial", "fibonacci"], ["networkio"]]}	SLApp	168.05
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	179.52
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	180.79
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	198.8
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	179.98
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	176.04
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	178.03
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	180.46
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	176.41
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	168.96
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	176.92
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	172.31
+{"parallel": [["factorial", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	194.22
+{"parallel": [["factorial", "networkio"], ["fibonacci"]]}	SLApp	186.76
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	178.0
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	177.4
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	201.57
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	184.68
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	179.81
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	174.48
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	172.41
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	179.24
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	173.68
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	177.89
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	174.22
+{"parallel": [["fibonacci", "networkio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	190.13
+{"parallel": [["fibonacci", "networkio"], ["factorial"]]}	SLApp	184.92
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	201.04
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	202.76
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	223.72
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	202.52
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	207.03
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	202.92
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	196.83
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	199.98
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	195.9
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	202.45
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pi"]]}	SLApp	197.33
+{"parallel": [["factorial", "fibonacci", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	218.68
+{"parallel": [["factorial", "fibonacci", "networkio"]]}	SLApp	219.77
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.82
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	164.16
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	178.28
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	160.7
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	160.55
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	162.66
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	157.93
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.08
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	154.2
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	157.92
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	154.34
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	175.67
+{"parallel": [["diskio"], ["fibonacci"], ["networkio"]]}	SLApp	172.25
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	160.38
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	161.06
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	177.01
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	160.81
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	158.09
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	162.29
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	153.68
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	153.17
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.19
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	159.95
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	151.11
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	172.59
+{"parallel": [["diskio"], ["networkio"], ["fibonacci"]]}	SLApp	170.13
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	181.97
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	177.85
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	199.32
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	184.8
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	182.63
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	180.74
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	176.54
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	179.9
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	180.38
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	177.63
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pi"]]}	SLApp	176.91
+{"parallel": [["diskio"], ["fibonacci", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	190.42
+{"parallel": [["diskio"], ["fibonacci", "networkio"]]}	SLApp	189.42
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.54
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	159.08
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	184.22
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	162.7
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	161.83
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	162.65
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.64
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.23
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	155.96
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	158.44
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	154.16
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	173.67
+{"parallel": [["fibonacci"], ["diskio"], ["networkio"]]}	SLApp	173.75
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.9
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	159.21
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	176.56
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	160.7
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.92
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	158.21
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	158.48
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.48
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	153.73
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	158.69
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	152.38
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	171.71
+{"parallel": [["fibonacci"], ["networkio"], ["diskio"]]}	SLApp	168.64
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.39
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	156.51
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	181.18
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	161.74
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	159.41
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.78
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	157.13
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.03
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	153.08
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	158.14
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pi"]]}	SLApp	154.95
+{"parallel": [["fibonacci"], ["diskio", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	175.27
+{"parallel": [["fibonacci"], ["diskio", "networkio"]]}	SLApp	169.6
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	156.66
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	150.14
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	179.32
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.24
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.8
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.09
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.95
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.05
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.81
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	155.19
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	147.29
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	171.13
+{"parallel": [["networkio"], ["diskio"], ["fibonacci"]]}	SLApp	170.36
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	155.98
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.14
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	175.97
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.69
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.35
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	155.25
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	155.0
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.26
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	146.52
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	151.74
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	150.62
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	167.16
+{"parallel": [["networkio"], ["fibonacci"], ["diskio"]]}	SLApp	167.5
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.95
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	152.72
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	174.31
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.01
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.21
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	153.89
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	151.91
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.45
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	147.39
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	156.9
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	151.07
+{"parallel": [["networkio"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	164.87
+{"parallel": [["networkio"], ["diskio", "fibonacci"]]}	SLApp	168.42
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	163.85
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.92
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	179.08
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.32
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	155.9
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.08
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	153.18
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.16
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.95
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	155.52
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	149.05
+{"parallel": [["diskio", "fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	170.93
+{"parallel": [["diskio", "fibonacci"], ["networkio"]]}	SLApp	168.42
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	156.16
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	157.97
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	177.72
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	159.23
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.42
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	158.3
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	155.31
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	153.79
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	149.86
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	152.89
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	150.03
+{"parallel": [["diskio", "networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	171.44
+{"parallel": [["diskio", "networkio"], ["fibonacci"]]}	SLApp	168.2
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	180.45
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	180.17
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	197.39
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	182.82
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	179.86
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	178.12
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	180.21
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	173.25
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	174.5
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	175.57
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	173.71
+{"parallel": [["fibonacci", "networkio"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	192.48
+{"parallel": [["fibonacci", "networkio"], ["diskio"]]}	SLApp	191.39
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	182.17
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	177.85
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	200.02
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	179.75
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	177.27
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	176.21
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	177.26
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	177.45
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	174.13
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	177.44
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pi"]]}	SLApp	174.34
+{"parallel": [["diskio", "fibonacci", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	194.95
+{"parallel": [["diskio", "fibonacci", "networkio"]]}	SLApp	188.35
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	163.9
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	162.22
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	178.06
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	161.54
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	161.78
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	159.95
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	157.51
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	159.47
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	153.73
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	156.79
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	154.86
+{"parallel": [["diskio"], ["factorial"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	175.37
+{"parallel": [["diskio"], ["factorial"], ["networkio"]]}	SLApp	173.82
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.68
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	155.05
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	176.59
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.42
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	157.9
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	162.58
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	153.58
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	159.87
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	153.01
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	162.53
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	155.13
+{"parallel": [["diskio"], ["networkio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	169.8
+{"parallel": [["diskio"], ["networkio"], ["factorial"]]}	SLApp	167.86
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	183.39
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	182.47
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	206.35
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	184.81
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	181.05
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	182.04
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	177.81
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	179.09
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	176.15
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	179.31
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pi"]]}	SLApp	177.88
+{"parallel": [["diskio"], ["factorial", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	195.74
+{"parallel": [["diskio"], ["factorial", "networkio"]]}	SLApp	193.53
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	161.83
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	159.51
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	179.24
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	163.95
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	159.69
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	161.65
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	157.09
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	157.28
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	158.15
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	159.15
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	154.87
+{"parallel": [["factorial"], ["diskio"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	173.63
+{"parallel": [["factorial"], ["diskio"], ["networkio"]]}	SLApp	170.71
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.51
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	159.2
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	175.17
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	164.7
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.24
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.53
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.82
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.85
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.87
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	156.26
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	158.64
+{"parallel": [["factorial"], ["networkio"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	173.27
+{"parallel": [["factorial"], ["networkio"], ["diskio"]]}	SLApp	169.69
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.12
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	156.47
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	179.35
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	160.68
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	159.23
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	158.77
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	156.44
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.49
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	155.67
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	156.29
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pi"]]}	SLApp	155.79
+{"parallel": [["factorial"], ["diskio", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	174.15
+{"parallel": [["factorial"], ["diskio", "networkio"]]}	SLApp	172.88
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.87
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	153.96
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	172.5
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.35
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	153.51
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	154.4
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	147.71
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	157.62
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.79
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	154.25
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	151.54
+{"parallel": [["networkio"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	168.03
+{"parallel": [["networkio"], ["diskio"], ["factorial"]]}	SLApp	164.06
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.64
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.4
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	170.97
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.04
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	151.97
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.14
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	152.66
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	151.65
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	148.7
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	153.06
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	150.26
+{"parallel": [["networkio"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	168.46
+{"parallel": [["networkio"], ["factorial"], ["diskio"]]}	SLApp	165.29
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.37
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	151.56
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	174.11
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	152.71
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	151.15
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	153.85
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	151.78
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.07
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.78
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["networkio2"]]}	SLApp	152.62
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pi"]]}	SLApp	151.42
+{"parallel": [["networkio"], ["diskio", "factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	166.78
+{"parallel": [["networkio"], ["diskio", "factorial"]]}	SLApp	165.81
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.18
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	156.48
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	178.52
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	157.52
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	160.44
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.96
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.81
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.84
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	146.12
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	155.0
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	148.51
+{"parallel": [["diskio", "factorial"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	169.52
+{"parallel": [["diskio", "factorial"], ["networkio"]]}	SLApp	165.98
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.72
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	160.21
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	177.99
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.28
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	155.39
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	159.85
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	153.42
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.47
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	146.16
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	153.4
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	150.48
+{"parallel": [["diskio", "networkio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	171.22
+{"parallel": [["diskio", "networkio"], ["factorial"]]}	SLApp	166.62
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	182.64
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	180.89
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	201.99
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	182.59
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	177.47
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	178.32
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	177.01
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	178.75
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	176.97
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	179.67
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	175.02
+{"parallel": [["factorial", "networkio"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	197.8
+{"parallel": [["factorial", "networkio"], ["diskio"]]}	SLApp	190.06
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	180.74
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	178.26
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	199.96
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	182.67
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	179.88
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	182.72
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	177.5
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	178.12
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	176.53
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	183.41
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pi"]]}	SLApp	175.06
+{"parallel": [["diskio", "factorial", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	196.45
+{"parallel": [["diskio", "factorial", "networkio"]]}	SLApp	195.63
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.63
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	155.38
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	174.01
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	154.67
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	155.45
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	155.96
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	155.33
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.99
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	153.23
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	155.96
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	151.32
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	169.17
+{"parallel": [["diskio"], ["factorial"], ["fibonacci"]]}	SLApp	166.16
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.84
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	153.73
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	177.17
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.29
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	153.21
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.06
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	152.75
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.72
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	149.8
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	153.0
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	150.07
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	172.49
+{"parallel": [["diskio"], ["fibonacci"], ["factorial"]]}	SLApp	165.51
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.61
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	153.16
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	170.2
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	155.29
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.25
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	154.4
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	149.31
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	147.6
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.64
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	152.72
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	148.7
+{"parallel": [["diskio"], ["factorial", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	166.75
+{"parallel": [["diskio"], ["factorial", "fibonacci"]]}	SLApp	162.5
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.44
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	155.04
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	180.12
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	157.37
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.73
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.75
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	152.54
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	153.59
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.64
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	153.44
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	148.89
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	168.89
+{"parallel": [["factorial"], ["diskio"], ["fibonacci"]]}	SLApp	167.82
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.61
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	157.47
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	175.0
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.06
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.39
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	154.33
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	151.44
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	156.72
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.06
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	152.19
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	147.82
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	173.81
+{"parallel": [["factorial"], ["fibonacci"], ["diskio"]]}	SLApp	164.14
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	155.44
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	150.93
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	172.43
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	154.58
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	147.61
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	148.38
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	151.16
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.03
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	143.31
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	153.11
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	146.34
+{"parallel": [["factorial"], ["diskio", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	164.25
+{"parallel": [["factorial"], ["diskio", "fibonacci"]]}	SLApp	161.09
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	160.27
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	157.83
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	178.78
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	157.03
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.11
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.79
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.34
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.77
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.57
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	156.12
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	150.32
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	170.95
+{"parallel": [["fibonacci"], ["diskio"], ["factorial"]]}	SLApp	164.84
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.42
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	153.22
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	173.09
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	154.58
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	157.64
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.77
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.23
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.21
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	149.97
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	152.7
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	151.46
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	172.12
+{"parallel": [["fibonacci"], ["factorial"], ["diskio"]]}	SLApp	167.98
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.26
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	147.66
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	171.13
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	153.41
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	151.57
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	151.32
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	150.92
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.09
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	143.68
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["networkio2"]]}	SLApp	151.63
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pi"]]}	SLApp	146.96
+{"parallel": [["fibonacci"], ["diskio", "factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	166.44
+{"parallel": [["fibonacci"], ["diskio", "factorial"]]}	SLApp	161.57
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	156.25
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	153.56
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	169.16
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	152.99
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.84
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	151.81
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	148.61
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.28
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	146.55
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	152.55
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	148.09
+{"parallel": [["diskio", "factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	165.08
+{"parallel": [["diskio", "factorial"], ["fibonacci"]]}	SLApp	163.8
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	152.71
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	153.06
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	172.69
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	154.22
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	151.05
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	152.05
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	152.14
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	149.61
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	146.76
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	153.32
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	147.31
+{"parallel": [["diskio", "fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	164.92
+{"parallel": [["diskio", "fibonacci"], ["factorial"]]}	SLApp	160.33
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	153.14
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	149.23
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	172.79
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	153.11
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	148.67
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	153.1
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	148.73
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	147.82
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	145.5
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	153.29
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	148.57
+{"parallel": [["factorial", "fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	167.57
+{"parallel": [["factorial", "fibonacci"], ["diskio"]]}	SLApp	159.53
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	148.54
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	148.53
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	165.53
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	149.67
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	145.51
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	150.93
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	147.54
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	147.13
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	144.84
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	148.51
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	143.45
+{"parallel": [["diskio", "factorial", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	162.75
+{"parallel": [["diskio", "factorial", "fibonacci"]]}	SLApp	159.96
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.68
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	156.37
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	175.38
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.58
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	153.42
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.72
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	156.33
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	153.03
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.41
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	155.01
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	154.21
+{"parallel": [["fibonacci"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	167.33
+{"parallel": [["fibonacci"], ["networkio"]]}	SLApp	171.16
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	156.02
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	151.94
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	176.03
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	155.23
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	153.74
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	152.43
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	152.59
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.74
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	149.14
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	152.42
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	148.82
+{"parallel": [["networkio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	167.74
+{"parallel": [["networkio"], ["fibonacci"]]}	SLApp	161.59
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	178.22
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	177.17
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	196.75
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	181.7
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	176.0
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	178.75
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	175.46
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	174.08
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	170.94
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	178.55
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pi"]]}	SLApp	173.93
+{"parallel": [["fibonacci", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	191.35
+{"parallel": [["fibonacci", "networkio"]]}	SLApp	193.85
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	159.24
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	157.08
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	176.83
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.99
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	156.0
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	160.68
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.7
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.1
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	150.22
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	153.17
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	154.88
+{"parallel": [["factorial"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	168.62
+{"parallel": [["factorial"], ["networkio"]]}	SLApp	165.27
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	151.88
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	150.71
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	178.31
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	155.55
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	151.89
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	156.69
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	154.13
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	151.87
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	149.6
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	151.88
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	150.31
+{"parallel": [["networkio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	168.46
+{"parallel": [["networkio"], ["factorial"]]}	SLApp	166.14
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	180.18
+{"parallel": [["factorial", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	179.96
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	198.26
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	180.18
+{"parallel": [["factorial", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	174.31
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	176.24
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	175.14
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	178.88
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	170.48
+{"parallel": [["factorial", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	174.26
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pi"]]}	SLApp	172.43
+{"parallel": [["factorial", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	193.89
+{"parallel": [["factorial", "networkio"]]}	SLApp	186.18
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	154.37
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	150.93
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	173.18
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.19
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	153.98
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	155.07
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	149.37
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.32
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	147.12
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	151.81
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	150.5
+{"parallel": [["factorial"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	169.6
+{"parallel": [["factorial"], ["fibonacci"]]}	SLApp	161.93
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	158.02
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	155.32
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	174.54
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	151.24
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.1
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.51
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	148.49
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	154.8
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	147.81
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	153.58
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	149.43
+{"parallel": [["fibonacci"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	165.25
+{"parallel": [["fibonacci"], ["factorial"]]}	SLApp	167.58
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	151.68
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	152.81
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	170.35
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	149.67
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.35
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	148.35
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	149.22
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	149.64
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	142.03
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	146.31
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	144.74
+{"parallel": [["factorial", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	166.47
+{"parallel": [["factorial", "fibonacci"]]}	SLApp	156.29
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.19
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.48
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	173.57
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	158.27
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.84
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.2
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	157.1
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	155.38
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	151.51
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["networkio2"]]}	SLApp	155.65
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pi"]]}	SLApp	151.82
+{"parallel": [["diskio"], ["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	176.81
+{"parallel": [["diskio"], ["networkio"]]}	SLApp	168.02
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	155.15
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.99
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	173.37
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	156.28
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	152.25
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	150.21
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	157.41
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.97
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	146.1
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	152.84
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	147.54
+{"parallel": [["networkio"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	167.58
+{"parallel": [["networkio"], ["diskio"]]}	SLApp	162.67
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	157.03
+{"parallel": [["diskio", "networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	154.99
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	174.75
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	159.28
+{"parallel": [["diskio", "networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.13
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	157.86
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	150.72
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	150.11
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	147.69
+{"parallel": [["diskio", "networkio"]], "parallel2": [["networkio2"]]}	SLApp	156.24
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pi"]]}	SLApp	150.45
+{"parallel": [["diskio", "networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	170.81
+{"parallel": [["diskio", "networkio"]]}	SLApp	166.1
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	178.17
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	175.74
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	194.9
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	181.0
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	176.43
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	176.5
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	175.49
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	174.19
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	169.42
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	173.6
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pi"]]}	SLApp	173.29
+{"parallel": [["diskio"], ["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	189.99
+{"parallel": [["diskio"], ["fibonacci"]]}	SLApp	188.05
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	177.94
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	176.36
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	198.88
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	182.43
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	173.17
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	178.7
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	174.44
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	170.5
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	168.26
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	170.18
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	169.33
+{"parallel": [["fibonacci"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	191.61
+{"parallel": [["fibonacci"], ["diskio"]]}	SLApp	183.71
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	173.49
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	174.37
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	191.14
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	173.26
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	170.89
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	174.08
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	168.23
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	175.19
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	170.04
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	171.36
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pi"]]}	SLApp	166.91
+{"parallel": [["diskio", "fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	184.96
+{"parallel": [["diskio", "fibonacci"]]}	SLApp	182.85
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	179.2
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	175.84
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	194.76
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	178.17
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	176.28
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	177.53
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	171.25
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	171.11
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	165.33
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["networkio2"]]}	SLApp	171.87
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pi"]]}	SLApp	170.19
+{"parallel": [["diskio"], ["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	187.89
+{"parallel": [["diskio"], ["factorial"]]}	SLApp	185.69
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	175.23
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	172.45
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	192.43
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	174.84
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	176.63
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	176.81
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	171.38
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	171.19
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	169.34
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["networkio2"]]}	SLApp	176.4
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pi"]]}	SLApp	167.82
+{"parallel": [["factorial"], ["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	186.39
+{"parallel": [["factorial"], ["diskio"]]}	SLApp	190.39
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	175.13
+{"parallel": [["diskio", "factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	173.31
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	194.32
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	173.52
+{"parallel": [["diskio", "factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	174.65
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	171.41
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	170.51
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	169.64
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	166.98
+{"parallel": [["diskio", "factorial"]], "parallel2": [["networkio2"]]}	SLApp	168.44
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pi"]]}	SLApp	170.55
+{"parallel": [["diskio", "factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	185.06
+{"parallel": [["diskio", "factorial"]]}	SLApp	178.88
+{"parallel": [["networkio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	155.94
+{"parallel": [["networkio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	151.34
+{"parallel": [["networkio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	175.91
+{"parallel": [["networkio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	153.43
+{"parallel": [["networkio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	154.66
+{"parallel": [["networkio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	150.79
+{"parallel": [["networkio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	150.0
+{"parallel": [["networkio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	152.47
+{"parallel": [["networkio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	148.33
+{"parallel": [["networkio"]], "parallel2": [["networkio2"]]}	SLApp	152.14
+{"parallel": [["networkio"]], "parallel2": [["pi"]]}	SLApp	152.37
+{"parallel": [["networkio"]], "parallel2": [["pbkdf2"]]}	SLApp	168.12
+{"parallel": [["networkio"]]}	SLApp	162.33
+{"parallel": [["fibonacci"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	178.61
+{"parallel": [["fibonacci"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	177.16
+{"parallel": [["fibonacci"]], "parallel2": [["pi", "networkio2"]]}	SLApp	196.85
+{"parallel": [["fibonacci"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	180.15
+{"parallel": [["fibonacci"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	176.73
+{"parallel": [["fibonacci"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	173.23
+{"parallel": [["fibonacci"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	170.62
+{"parallel": [["fibonacci"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	171.74
+{"parallel": [["fibonacci"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	167.14
+{"parallel": [["fibonacci"]], "parallel2": [["networkio2"]]}	SLApp	178.27
+{"parallel": [["fibonacci"]], "parallel2": [["pi"]]}	SLApp	175.13
+{"parallel": [["fibonacci"]], "parallel2": [["pbkdf2"]]}	SLApp	189.3
+{"parallel": [["fibonacci"]]}	SLApp	186.74
+{"parallel": [["factorial"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	175.52
+{"parallel": [["factorial"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	173.26
+{"parallel": [["factorial"]], "parallel2": [["pi", "networkio2"]]}	SLApp	192.36
+{"parallel": [["factorial"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	176.59
+{"parallel": [["factorial"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	170.42
+{"parallel": [["factorial"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	172.94
+{"parallel": [["factorial"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	172.27
+{"parallel": [["factorial"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	172.3
+{"parallel": [["factorial"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	168.88
+{"parallel": [["factorial"]], "parallel2": [["networkio2"]]}	SLApp	171.7
+{"parallel": [["factorial"]], "parallel2": [["pi"]]}	SLApp	165.69
+{"parallel": [["factorial"]], "parallel2": [["pbkdf2"]]}	SLApp	183.49
+{"parallel": [["factorial"]]}	SLApp	183.06
+{"parallel": [["diskio"]], "parallel2": [["pi"], ["networkio2"]]}	SLApp	199.26
+{"parallel": [["diskio"]], "parallel2": [["networkio2"], ["pi"]]}	SLApp	196.15
+{"parallel": [["diskio"]], "parallel2": [["pi", "networkio2"]]}	SLApp	218.13
+{"parallel": [["diskio"]], "parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	200.54
+{"parallel": [["diskio"]], "parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	198.31
+{"parallel": [["diskio"]], "parallel2": [["pbkdf2", "networkio2"]]}	SLApp	198.02
+{"parallel": [["diskio"]], "parallel2": [["pi"], ["pbkdf2"]]}	SLApp	197.95
+{"parallel": [["diskio"]], "parallel2": [["pbkdf2"], ["pi"]]}	SLApp	196.59
+{"parallel": [["diskio"]], "parallel2": [["pi", "pbkdf2"]]}	SLApp	194.5
+{"parallel": [["diskio"]], "parallel2": [["networkio2"]]}	SLApp	197.54
+{"parallel": [["diskio"]], "parallel2": [["pi"]]}	SLApp	192.86
+{"parallel": [["diskio"]], "parallel2": [["pbkdf2"]]}	SLApp	208.32
+{"parallel": [["diskio"]]}	SLApp	213.15
+{"parallel2": [["pi"], ["networkio2"]]}	SLApp	199.61
+{"parallel2": [["networkio2"], ["pi"]]}	SLApp	194.99
+{"parallel2": [["pi", "networkio2"]]}	SLApp	214.71
+{"parallel2": [["pbkdf2"], ["networkio2"]]}	SLApp	196.78
+{"parallel2": [["networkio2"], ["pbkdf2"]]}	SLApp	194.72
+{"parallel2": [["pbkdf2", "networkio2"]]}	SLApp	197.03
+{"parallel2": [["pi"], ["pbkdf2"]]}	SLApp	187.99
+{"parallel2": [["pbkdf2"], ["pi"]]}	SLApp	194.6
+{"parallel2": [["pi", "pbkdf2"]]}	SLApp	187.06
+{"parallel2": [["networkio2"]]}	SLApp	193.8
+{"parallel2": [["pi"]]}	SLApp	189.4
+{"parallel2": [["pbkdf2"]]}	SLApp	209.71
+{}	SLApp	199.57

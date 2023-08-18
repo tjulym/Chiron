@@ -1,0 +1,541 @@
+{"FetchData": [["volume"], ["marketdata"], ["lastpx"], ["side"]]}	finra	111.040000
+{"FetchData": [["volume"], ["marketdata"], ["side"], ["lastpx"]]}	finra	95.330000
+{"FetchData": [["volume"], ["marketdata"], ["lastpx", "side"]]}	finra	87.450000
+{"FetchData": [["volume"], ["lastpx"], ["marketdata"], ["side"]]}	finra	113.060000
+{"FetchData": [["volume"], ["lastpx"], ["side"], ["marketdata"]]}	finra	97.680000
+{"FetchData": [["volume"], ["lastpx"], ["marketdata", "side"]]}	finra	100.210000
+{"FetchData": [["volume"], ["side"], ["marketdata"], ["lastpx"]]}	finra	89.220000
+{"FetchData": [["volume"], ["side"], ["lastpx"], ["marketdata"]]}	finra	116.270000
+{"FetchData": [["volume"], ["side"], ["marketdata", "lastpx"]]}	finra	111.070000
+{"FetchData": [["volume"], ["marketdata", "lastpx"], ["side"]]}	finra	99.780000
+{"FetchData": [["volume"], ["marketdata", "side"], ["lastpx"]]}	finra	86.550000
+{"FetchData": [["volume"], ["lastpx", "side"], ["marketdata"]]}	finra	100.260000
+{"FetchData": [["volume"], ["marketdata", "lastpx", "side"]]}	finra	94.040000
+{"FetchData": [["marketdata"], ["volume"], ["lastpx"], ["side"]]}	finra	99.490000
+{"FetchData": [["marketdata"], ["volume"], ["side"], ["lastpx"]]}	finra	82.180000
+{"FetchData": [["marketdata"], ["volume"], ["lastpx", "side"]]}	finra	83.630000
+{"FetchData": [["marketdata"], ["lastpx"], ["volume"], ["side"]]}	finra	84.190000
+{"FetchData": [["marketdata"], ["lastpx"], ["side"], ["volume"]]}	finra	84.760000
+{"FetchData": [["marketdata"], ["lastpx"], ["volume", "side"]]}	finra	82.640000
+{"FetchData": [["marketdata"], ["side"], ["volume"], ["lastpx"]]}	finra	82.650000
+{"FetchData": [["marketdata"], ["side"], ["lastpx"], ["volume"]]}	finra	84.330000
+{"FetchData": [["marketdata"], ["side"], ["volume", "lastpx"]]}	finra	82.930000
+{"FetchData": [["marketdata"], ["volume", "lastpx"], ["side"]]}	finra	81.420000
+{"FetchData": [["marketdata"], ["volume", "side"], ["lastpx"]]}	finra	82.500000
+{"FetchData": [["marketdata"], ["lastpx", "side"], ["volume"]]}	finra	82.420000
+{"FetchData": [["marketdata"], ["volume", "lastpx", "side"]]}	finra	83.050000
+{"FetchData": [["lastpx"], ["volume"], ["marketdata"], ["side"]]}	finra	98.090000
+{"FetchData": [["lastpx"], ["volume"], ["side"], ["marketdata"]]}	finra	102.320000
+{"FetchData": [["lastpx"], ["volume"], ["marketdata", "side"]]}	finra	92.550000
+{"FetchData": [["lastpx"], ["marketdata"], ["volume"], ["side"]]}	finra	91.960000
+{"FetchData": [["lastpx"], ["marketdata"], ["side"], ["volume"]]}	finra	87.990000
+{"FetchData": [["lastpx"], ["marketdata"], ["volume", "side"]]}	finra	87.350000
+{"FetchData": [["lastpx"], ["side"], ["volume"], ["marketdata"]]}	finra	96.720000
+{"FetchData": [["lastpx"], ["side"], ["marketdata"], ["volume"]]}	finra	97.590000
+{"FetchData": [["lastpx"], ["side"], ["volume", "marketdata"]]}	finra	90.130000
+{"FetchData": [["lastpx"], ["volume", "marketdata"], ["side"]]}	finra	96.280000
+{"FetchData": [["lastpx"], ["volume", "side"], ["marketdata"]]}	finra	91.490000
+{"FetchData": [["lastpx"], ["marketdata", "side"], ["volume"]]}	finra	108.090000
+{"FetchData": [["lastpx"], ["volume", "marketdata", "side"]]}	finra	85.980000
+{"FetchData": [["side"], ["volume"], ["marketdata"], ["lastpx"]]}	finra	113.070000
+{"FetchData": [["side"], ["volume"], ["lastpx"], ["marketdata"]]}	finra	102.840000
+{"FetchData": [["side"], ["volume"], ["marketdata", "lastpx"]]}	finra	109.060000
+{"FetchData": [["side"], ["marketdata"], ["volume"], ["lastpx"]]}	finra	98.840000
+{"FetchData": [["side"], ["marketdata"], ["lastpx"], ["volume"]]}	finra	87.110000
+{"FetchData": [["side"], ["marketdata"], ["volume", "lastpx"]]}	finra	87.220000
+{"FetchData": [["side"], ["lastpx"], ["volume"], ["marketdata"]]}	finra	97.820000
+{"FetchData": [["side"], ["lastpx"], ["marketdata"], ["volume"]]}	finra	113.630000
+{"FetchData": [["side"], ["lastpx"], ["volume", "marketdata"]]}	finra	90.700000
+{"FetchData": [["side"], ["volume", "marketdata"], ["lastpx"]]}	finra	92.950000
+{"FetchData": [["side"], ["volume", "lastpx"], ["marketdata"]]}	finra	96.460000
+{"FetchData": [["side"], ["marketdata", "lastpx"], ["volume"]]}	finra	103.330000
+{"FetchData": [["side"], ["volume", "marketdata", "lastpx"]]}	finra	86.520000
+{"FetchData": [["volume", "marketdata"], ["lastpx"], ["side"]]}	finra	106.560000
+{"FetchData": [["volume", "marketdata"], ["side"], ["lastpx"]]}	finra	106.800000
+{"FetchData": [["volume", "marketdata"], ["lastpx", "side"]]}	finra	91.110000
+{"FetchData": [["volume", "lastpx"], ["marketdata"], ["side"]]}	finra	109.450000
+{"FetchData": [["volume", "lastpx"], ["side"], ["marketdata"]]}	finra	89.820000
+{"FetchData": [["volume", "lastpx"], ["marketdata", "side"]]}	finra	89.890000
+{"FetchData": [["volume", "side"], ["marketdata"], ["lastpx"]]}	finra	88.420000
+{"FetchData": [["volume", "side"], ["lastpx"], ["marketdata"]]}	finra	103.080000
+{"FetchData": [["volume", "side"], ["marketdata", "lastpx"]]}	finra	95.060000
+{"FetchData": [["marketdata", "lastpx"], ["volume"], ["side"]]}	finra	97.540000
+{"FetchData": [["marketdata", "lastpx"], ["side"], ["volume"]]}	finra	83.310000
+{"FetchData": [["marketdata", "lastpx"], ["volume", "side"]]}	finra	83.330000
+{"FetchData": [["marketdata", "side"], ["volume"], ["lastpx"]]}	finra	83.350000
+{"FetchData": [["marketdata", "side"], ["lastpx"], ["volume"]]}	finra	83.020000
+{"FetchData": [["marketdata", "side"], ["volume", "lastpx"]]}	finra	82.350000
+{"FetchData": [["lastpx", "side"], ["volume"], ["marketdata"]]}	finra	99.710000
+{"FetchData": [["lastpx", "side"], ["marketdata"], ["volume"]]}	finra	102.890000
+{"FetchData": [["lastpx", "side"], ["volume", "marketdata"]]}	finra	87.060000
+{"FetchData": [["volume", "marketdata", "lastpx"], ["side"]]}	finra	87.870000
+{"FetchData": [["volume", "marketdata", "side"], ["lastpx"]]}	finra	81.680000
+{"FetchData": [["volume", "lastpx", "side"], ["marketdata"]]}	finra	87.840000
+{"FetchData": [["marketdata", "lastpx", "side"], ["volume"]]}	finra	106.670000
+{"FetchData": [["volume", "marketdata", "lastpx", "side"]]}	finra	104.630000
+{"FetchData": [["volume"], ["trddate"], ["lastpx"], ["side"]]}	finra	102.300000
+{"FetchData": [["volume"], ["trddate"], ["side"], ["lastpx"]]}	finra	102.960000
+{"FetchData": [["volume"], ["trddate"], ["lastpx", "side"]]}	finra	99.990000
+{"FetchData": [["volume"], ["lastpx"], ["trddate"], ["side"]]}	finra	103.050000
+{"FetchData": [["volume"], ["lastpx"], ["side"], ["trddate"]]}	finra	102.940000
+{"FetchData": [["volume"], ["lastpx"], ["trddate", "side"]]}	finra	100.040000
+{"FetchData": [["volume"], ["side"], ["trddate"], ["lastpx"]]}	finra	103.180000
+{"FetchData": [["volume"], ["side"], ["lastpx"], ["trddate"]]}	finra	103.850000
+{"FetchData": [["volume"], ["side"], ["trddate", "lastpx"]]}	finra	100.440000
+{"FetchData": [["volume"], ["trddate", "lastpx"], ["side"]]}	finra	98.490000
+{"FetchData": [["volume"], ["trddate", "side"], ["lastpx"]]}	finra	99.660000
+{"FetchData": [["volume"], ["lastpx", "side"], ["trddate"]]}	finra	100.670000
+{"FetchData": [["volume"], ["trddate", "lastpx", "side"]]}	finra	97.610000
+{"FetchData": [["trddate"], ["volume"], ["lastpx"], ["side"]]}	finra	103.450000
+{"FetchData": [["trddate"], ["volume"], ["side"], ["lastpx"]]}	finra	103.030000
+{"FetchData": [["trddate"], ["volume"], ["lastpx", "side"]]}	finra	100.440000
+{"FetchData": [["trddate"], ["lastpx"], ["volume"], ["side"]]}	finra	103.640000
+{"FetchData": [["trddate"], ["lastpx"], ["side"], ["volume"]]}	finra	103.500000
+{"FetchData": [["trddate"], ["lastpx"], ["volume", "side"]]}	finra	100.660000
+{"FetchData": [["trddate"], ["side"], ["volume"], ["lastpx"]]}	finra	102.870000
+{"FetchData": [["trddate"], ["side"], ["lastpx"], ["volume"]]}	finra	104.050000
+{"FetchData": [["trddate"], ["side"], ["volume", "lastpx"]]}	finra	100.720000
+{"FetchData": [["trddate"], ["volume", "lastpx"], ["side"]]}	finra	99.720000
+{"FetchData": [["trddate"], ["volume", "side"], ["lastpx"]]}	finra	99.810000
+{"FetchData": [["trddate"], ["lastpx", "side"], ["volume"]]}	finra	100.740000
+{"FetchData": [["trddate"], ["volume", "lastpx", "side"]]}	finra	97.360000
+{"FetchData": [["lastpx"], ["volume"], ["trddate"], ["side"]]}	finra	102.980000
+{"FetchData": [["lastpx"], ["volume"], ["side"], ["trddate"]]}	finra	103.990000
+{"FetchData": [["lastpx"], ["volume"], ["trddate", "side"]]}	finra	100.830000
+{"FetchData": [["lastpx"], ["trddate"], ["volume"], ["side"]]}	finra	103.120000
+{"FetchData": [["lastpx"], ["trddate"], ["side"], ["volume"]]}	finra	104.240000
+{"FetchData": [["lastpx"], ["trddate"], ["volume", "side"]]}	finra	100.600000
+{"FetchData": [["lastpx"], ["side"], ["volume"], ["trddate"]]}	finra	102.860000
+{"FetchData": [["lastpx"], ["side"], ["trddate"], ["volume"]]}	finra	104.230000
+{"FetchData": [["lastpx"], ["side"], ["volume", "trddate"]]}	finra	100.490000
+{"FetchData": [["lastpx"], ["volume", "trddate"], ["side"]]}	finra	100.400000
+{"FetchData": [["lastpx"], ["volume", "side"], ["trddate"]]}	finra	101.070000
+{"FetchData": [["lastpx"], ["trddate", "side"], ["volume"]]}	finra	101.010000
+{"FetchData": [["lastpx"], ["volume", "trddate", "side"]]}	finra	97.810000
+{"FetchData": [["side"], ["volume"], ["trddate"], ["lastpx"]]}	finra	104.510000
+{"FetchData": [["side"], ["volume"], ["lastpx"], ["trddate"]]}	finra	103.420000
+{"FetchData": [["side"], ["volume"], ["trddate", "lastpx"]]}	finra	101.000000
+{"FetchData": [["side"], ["trddate"], ["volume"], ["lastpx"]]}	finra	103.250000
+{"FetchData": [["side"], ["trddate"], ["lastpx"], ["volume"]]}	finra	103.370000
+{"FetchData": [["side"], ["trddate"], ["volume", "lastpx"]]}	finra	101.140000
+{"FetchData": [["side"], ["lastpx"], ["volume"], ["trddate"]]}	finra	102.910000
+{"FetchData": [["side"], ["lastpx"], ["trddate"], ["volume"]]}	finra	104.000000
+{"FetchData": [["side"], ["lastpx"], ["volume", "trddate"]]}	finra	100.950000
+{"FetchData": [["side"], ["volume", "trddate"], ["lastpx"]]}	finra	100.310000
+{"FetchData": [["side"], ["volume", "lastpx"], ["trddate"]]}	finra	100.810000
+{"FetchData": [["side"], ["trddate", "lastpx"], ["volume"]]}	finra	100.940000
+{"FetchData": [["side"], ["volume", "trddate", "lastpx"]]}	finra	97.510000
+{"FetchData": [["volume", "trddate"], ["lastpx"], ["side"]]}	finra	99.990000
+{"FetchData": [["volume", "trddate"], ["side"], ["lastpx"]]}	finra	100.120000
+{"FetchData": [["volume", "trddate"], ["lastpx", "side"]]}	finra	97.320000
+{"FetchData": [["volume", "lastpx"], ["trddate"], ["side"]]}	finra	99.840000
+{"FetchData": [["volume", "lastpx"], ["side"], ["trddate"]]}	finra	100.290000
+{"FetchData": [["volume", "lastpx"], ["trddate", "side"]]}	finra	97.730000
+{"FetchData": [["volume", "side"], ["trddate"], ["lastpx"]]}	finra	101.510000
+{"FetchData": [["volume", "side"], ["lastpx"], ["trddate"]]}	finra	100.910000
+{"FetchData": [["volume", "side"], ["trddate", "lastpx"]]}	finra	97.190000
+{"FetchData": [["trddate", "lastpx"], ["volume"], ["side"]]}	finra	100.900000
+{"FetchData": [["trddate", "lastpx"], ["side"], ["volume"]]}	finra	100.290000
+{"FetchData": [["trddate", "lastpx"], ["volume", "side"]]}	finra	96.100000
+{"FetchData": [["trddate", "side"], ["volume"], ["lastpx"]]}	finra	100.840000
+{"FetchData": [["trddate", "side"], ["lastpx"], ["volume"]]}	finra	101.390000
+{"FetchData": [["trddate", "side"], ["volume", "lastpx"]]}	finra	96.850000
+{"FetchData": [["lastpx", "side"], ["volume"], ["trddate"]]}	finra	100.700000
+{"FetchData": [["lastpx", "side"], ["trddate"], ["volume"]]}	finra	100.030000
+{"FetchData": [["lastpx", "side"], ["volume", "trddate"]]}	finra	96.850000
+{"FetchData": [["volume", "trddate", "lastpx"], ["side"]]}	finra	96.550000
+{"FetchData": [["volume", "trddate", "side"], ["lastpx"]]}	finra	97.000000
+{"FetchData": [["volume", "lastpx", "side"], ["trddate"]]}	finra	97.900000
+{"FetchData": [["trddate", "lastpx", "side"], ["volume"]]}	finra	98.750000
+{"FetchData": [["volume", "trddate", "lastpx", "side"]]}	finra	94.410000
+{"FetchData": [["volume"], ["trddate"], ["marketdata"], ["side"]]}	finra	111.300000
+{"FetchData": [["volume"], ["trddate"], ["side"], ["marketdata"]]}	finra	114.800000
+{"FetchData": [["volume"], ["trddate"], ["marketdata", "side"]]}	finra	100.230000
+{"FetchData": [["volume"], ["marketdata"], ["trddate"], ["side"]]}	finra	109.770000
+{"FetchData": [["volume"], ["marketdata"], ["side"], ["trddate"]]}	finra	109.230000
+{"FetchData": [["volume"], ["marketdata"], ["trddate", "side"]]}	finra	96.690000
+{"FetchData": [["volume"], ["side"], ["trddate"], ["marketdata"]]}	finra	114.150000
+{"FetchData": [["volume"], ["side"], ["marketdata"], ["trddate"]]}	finra	93.280000
+{"FetchData": [["volume"], ["side"], ["trddate", "marketdata"]]}	finra	88.570000
+{"FetchData": [["volume"], ["trddate", "marketdata"], ["side"]]}	finra	96.150000
+{"FetchData": [["volume"], ["trddate", "side"], ["marketdata"]]}	finra	96.840000
+{"FetchData": [["volume"], ["marketdata", "side"], ["trddate"]]}	finra	93.620000
+{"FetchData": [["volume"], ["trddate", "marketdata", "side"]]}	finra	85.100000
+{"FetchData": [["trddate"], ["volume"], ["marketdata"], ["side"]]}	finra	91.390000
+{"FetchData": [["trddate"], ["volume"], ["side"], ["marketdata"]]}	finra	95.780000
+{"FetchData": [["trddate"], ["volume"], ["marketdata", "side"]]}	finra	110.120000
+{"FetchData": [["trddate"], ["marketdata"], ["volume"], ["side"]]}	finra	112.000000
+{"FetchData": [["trddate"], ["marketdata"], ["side"], ["volume"]]}	finra	90.540000
+{"FetchData": [["trddate"], ["marketdata"], ["volume", "side"]]}	finra	88.220000
+{"FetchData": [["trddate"], ["side"], ["volume"], ["marketdata"]]}	finra	117.050000
+{"FetchData": [["trddate"], ["side"], ["marketdata"], ["volume"]]}	finra	105.490000
+{"FetchData": [["trddate"], ["side"], ["volume", "marketdata"]]}	finra	89.810000
+{"FetchData": [["trddate"], ["volume", "marketdata"], ["side"]]}	finra	100.170000
+{"FetchData": [["trddate"], ["volume", "side"], ["marketdata"]]}	finra	90.920000
+{"FetchData": [["trddate"], ["marketdata", "side"], ["volume"]]}	finra	91.720000
+{"FetchData": [["trddate"], ["volume", "marketdata", "side"]]}	finra	85.690000
+{"FetchData": [["marketdata"], ["volume"], ["trddate"], ["side"]]}	finra	107.680000
+{"FetchData": [["marketdata"], ["volume"], ["side"], ["trddate"]]}	finra	107.120000
+{"FetchData": [["marketdata"], ["volume"], ["trddate", "side"]]}	finra	93.680000
+{"FetchData": [["marketdata"], ["trddate"], ["volume"], ["side"]]}	finra	84.320000
+{"FetchData": [["marketdata"], ["trddate"], ["side"], ["volume"]]}	finra	84.490000
+{"FetchData": [["marketdata"], ["trddate"], ["volume", "side"]]}	finra	82.920000
+{"FetchData": [["marketdata"], ["side"], ["volume"], ["trddate"]]}	finra	83.460000
+{"FetchData": [["marketdata"], ["side"], ["trddate"], ["volume"]]}	finra	85.060000
+{"FetchData": [["marketdata"], ["side"], ["volume", "trddate"]]}	finra	83.080000
+{"FetchData": [["marketdata"], ["volume", "trddate"], ["side"]]}	finra	84.080000
+{"FetchData": [["marketdata"], ["volume", "side"], ["trddate"]]}	finra	83.900000
+{"FetchData": [["marketdata"], ["trddate", "side"], ["volume"]]}	finra	83.130000
+{"FetchData": [["marketdata"], ["volume", "trddate", "side"]]}	finra	83.570000
+{"FetchData": [["side"], ["volume"], ["trddate"], ["marketdata"]]}	finra	107.310000
+{"FetchData": [["side"], ["volume"], ["marketdata"], ["trddate"]]}	finra	113.880000
+{"FetchData": [["side"], ["volume"], ["trddate", "marketdata"]]}	finra	99.700000
+{"FetchData": [["side"], ["trddate"], ["volume"], ["marketdata"]]}	finra	116.390000
+{"FetchData": [["side"], ["trddate"], ["marketdata"], ["volume"]]}	finra	109.340000
+{"FetchData": [["side"], ["trddate"], ["volume", "marketdata"]]}	finra	89.220000
+{"FetchData": [["side"], ["marketdata"], ["volume"], ["trddate"]]}	finra	111.530000
+{"FetchData": [["side"], ["marketdata"], ["trddate"], ["volume"]]}	finra	92.870000
+{"FetchData": [["side"], ["marketdata"], ["volume", "trddate"]]}	finra	87.060000
+{"FetchData": [["side"], ["volume", "trddate"], ["marketdata"]]}	finra	98.940000
+{"FetchData": [["side"], ["volume", "marketdata"], ["trddate"]]}	finra	91.960000
+{"FetchData": [["side"], ["trddate", "marketdata"], ["volume"]]}	finra	88.230000
+{"FetchData": [["side"], ["volume", "trddate", "marketdata"]]}	finra	87.400000
+{"FetchData": [["volume", "trddate"], ["marketdata"], ["side"]]}	finra	87.790000
+{"FetchData": [["volume", "trddate"], ["side"], ["marketdata"]]}	finra	92.420000
+{"FetchData": [["volume", "trddate"], ["marketdata", "side"]]}	finra	96.810000
+{"FetchData": [["volume", "marketdata"], ["trddate"], ["side"]]}	finra	92.750000
+{"FetchData": [["volume", "marketdata"], ["side"], ["trddate"]]}	finra	82.880000
+{"FetchData": [["volume", "marketdata"], ["trddate", "side"]]}	finra	83.980000
+{"FetchData": [["volume", "side"], ["trddate"], ["marketdata"]]}	finra	90.910000
+{"FetchData": [["volume", "side"], ["marketdata"], ["trddate"]]}	finra	107.460000
+{"FetchData": [["volume", "side"], ["trddate", "marketdata"]]}	finra	85.430000
+{"FetchData": [["trddate", "marketdata"], ["volume"], ["side"]]}	finra	107.240000
+{"FetchData": [["trddate", "marketdata"], ["side"], ["volume"]]}	finra	107.210000
+{"FetchData": [["trddate", "marketdata"], ["volume", "side"]]}	finra	105.770000
+{"FetchData": [["trddate", "side"], ["volume"], ["marketdata"]]}	finra	97.640000
+{"FetchData": [["trddate", "side"], ["marketdata"], ["volume"]]}	finra	100.810000
+{"FetchData": [["trddate", "side"], ["volume", "marketdata"]]}	finra	86.340000
+{"FetchData": [["marketdata", "side"], ["volume"], ["trddate"]]}	finra	89.660000
+{"FetchData": [["marketdata", "side"], ["trddate"], ["volume"]]}	finra	82.270000
+{"FetchData": [["marketdata", "side"], ["volume", "trddate"]]}	finra	82.100000
+{"FetchData": [["volume", "trddate", "marketdata"], ["side"]]}	finra	83.840000
+{"FetchData": [["volume", "trddate", "side"], ["marketdata"]]}	finra	88.970000
+{"FetchData": [["volume", "marketdata", "side"], ["trddate"]]}	finra	90.460000
+{"FetchData": [["trddate", "marketdata", "side"], ["volume"]]}	finra	83.720000
+{"FetchData": [["volume", "trddate", "marketdata", "side"]]}	finra	81.410000
+{"FetchData": [["trddate"], ["marketdata"], ["lastpx"], ["side"]]}	finra	101.500000
+{"FetchData": [["trddate"], ["marketdata"], ["side"], ["lastpx"]]}	finra	89.160000
+{"FetchData": [["trddate"], ["marketdata"], ["lastpx", "side"]]}	finra	88.720000
+{"FetchData": [["trddate"], ["lastpx"], ["marketdata"], ["side"]]}	finra	103.560000
+{"FetchData": [["trddate"], ["lastpx"], ["side"], ["marketdata"]]}	finra	98.000000
+{"FetchData": [["trddate"], ["lastpx"], ["marketdata", "side"]]}	finra	91.830000
+{"FetchData": [["trddate"], ["side"], ["marketdata"], ["lastpx"]]}	finra	91.100000
+{"FetchData": [["trddate"], ["side"], ["lastpx"], ["marketdata"]]}	finra	100.950000
+{"FetchData": [["trddate"], ["side"], ["marketdata", "lastpx"]]}	finra	91.070000
+{"FetchData": [["trddate"], ["marketdata", "lastpx"], ["side"]]}	finra	95.110000
+{"FetchData": [["trddate"], ["marketdata", "side"], ["lastpx"]]}	finra	87.490000
+{"FetchData": [["trddate"], ["lastpx", "side"], ["marketdata"]]}	finra	98.910000
+{"FetchData": [["trddate"], ["marketdata", "lastpx", "side"]]}	finra	88.850000
+{"FetchData": [["marketdata"], ["trddate"], ["lastpx"], ["side"]]}	finra	99.900000
+{"FetchData": [["marketdata"], ["trddate"], ["side"], ["lastpx"]]}	finra	83.670000
+{"FetchData": [["marketdata"], ["trddate"], ["lastpx", "side"]]}	finra	81.830000
+{"FetchData": [["marketdata"], ["lastpx"], ["trddate"], ["side"]]}	finra	85.420000
+{"FetchData": [["marketdata"], ["lastpx"], ["side"], ["trddate"]]}	finra	84.540000
+{"FetchData": [["marketdata"], ["lastpx"], ["trddate", "side"]]}	finra	83.500000
+{"FetchData": [["marketdata"], ["side"], ["trddate"], ["lastpx"]]}	finra	84.440000
+{"FetchData": [["marketdata"], ["side"], ["lastpx"], ["trddate"]]}	finra	85.030000
+{"FetchData": [["marketdata"], ["side"], ["trddate", "lastpx"]]}	finra	83.940000
+{"FetchData": [["marketdata"], ["trddate", "lastpx"], ["side"]]}	finra	83.040000
+{"FetchData": [["marketdata"], ["trddate", "side"], ["lastpx"]]}	finra	84.430000
+{"FetchData": [["marketdata"], ["lastpx", "side"], ["trddate"]]}	finra	83.610000
+{"FetchData": [["marketdata"], ["trddate", "lastpx", "side"]]}	finra	82.110000
+{"FetchData": [["lastpx"], ["trddate"], ["marketdata"], ["side"]]}	finra	105.180000
+{"FetchData": [["lastpx"], ["trddate"], ["side"], ["marketdata"]]}	finra	102.600000
+{"FetchData": [["lastpx"], ["trddate"], ["marketdata", "side"]]}	finra	107.750000
+{"FetchData": [["lastpx"], ["marketdata"], ["trddate"], ["side"]]}	finra	90.900000
+{"FetchData": [["lastpx"], ["marketdata"], ["side"], ["trddate"]]}	finra	88.320000
+{"FetchData": [["lastpx"], ["marketdata"], ["trddate", "side"]]}	finra	88.150000
+{"FetchData": [["lastpx"], ["side"], ["trddate"], ["marketdata"]]}	finra	96.510000
+{"FetchData": [["lastpx"], ["side"], ["marketdata"], ["trddate"]]}	finra	108.390000
+{"FetchData": [["lastpx"], ["side"], ["trddate", "marketdata"]]}	finra	90.030000
+{"FetchData": [["lastpx"], ["trddate", "marketdata"], ["side"]]}	finra	92.690000
+{"FetchData": [["lastpx"], ["trddate", "side"], ["marketdata"]]}	finra	114.900000
+{"FetchData": [["lastpx"], ["marketdata", "side"], ["trddate"]]}	finra	89.380000
+{"FetchData": [["lastpx"], ["trddate", "marketdata", "side"]]}	finra	87.430000
+{"FetchData": [["side"], ["trddate"], ["marketdata"], ["lastpx"]]}	finra	94.990000
+{"FetchData": [["side"], ["trddate"], ["lastpx"], ["marketdata"]]}	finra	112.160000
+{"FetchData": [["side"], ["trddate"], ["marketdata", "lastpx"]]}	finra	97.160000
+{"FetchData": [["side"], ["marketdata"], ["trddate"], ["lastpx"]]}	finra	92.710000
+{"FetchData": [["side"], ["marketdata"], ["lastpx"], ["trddate"]]}	finra	89.840000
+{"FetchData": [["side"], ["marketdata"], ["trddate", "lastpx"]]}	finra	88.920000
+{"FetchData": [["side"], ["lastpx"], ["trddate"], ["marketdata"]]}	finra	98.520000
+{"FetchData": [["side"], ["lastpx"], ["marketdata"], ["trddate"]]}	finra	95.710000
+{"FetchData": [["side"], ["lastpx"], ["trddate", "marketdata"]]}	finra	90.070000
+{"FetchData": [["side"], ["trddate", "marketdata"], ["lastpx"]]}	finra	90.000000
+{"FetchData": [["side"], ["trddate", "lastpx"], ["marketdata"]]}	finra	93.250000
+{"FetchData": [["side"], ["marketdata", "lastpx"], ["trddate"]]}	finra	90.200000
+{"FetchData": [["side"], ["trddate", "marketdata", "lastpx"]]}	finra	87.110000
+{"FetchData": [["trddate", "marketdata"], ["lastpx"], ["side"]]}	finra	99.550000
+{"FetchData": [["trddate", "marketdata"], ["side"], ["lastpx"]]}	finra	83.840000
+{"FetchData": [["trddate", "marketdata"], ["lastpx", "side"]]}	finra	82.860000
+{"FetchData": [["trddate", "lastpx"], ["marketdata"], ["side"]]}	finra	101.830000
+{"FetchData": [["trddate", "lastpx"], ["side"], ["marketdata"]]}	finra	97.400000
+{"FetchData": [["trddate", "lastpx"], ["marketdata", "side"]]}	finra	88.290000
+{"FetchData": [["trddate", "side"], ["marketdata"], ["lastpx"]]}	finra	87.400000
+{"FetchData": [["trddate", "side"], ["lastpx"], ["marketdata"]]}	finra	90.790000
+{"FetchData": [["trddate", "side"], ["marketdata", "lastpx"]]}	finra	86.150000
+{"FetchData": [["marketdata", "lastpx"], ["trddate"], ["side"]]}	finra	85.620000
+{"FetchData": [["marketdata", "lastpx"], ["side"], ["trddate"]]}	finra	83.380000
+{"FetchData": [["marketdata", "lastpx"], ["trddate", "side"]]}	finra	82.820000
+{"FetchData": [["marketdata", "side"], ["trddate"], ["lastpx"]]}	finra	81.790000
+{"FetchData": [["marketdata", "side"], ["lastpx"], ["trddate"]]}	finra	82.180000
+{"FetchData": [["marketdata", "side"], ["trddate", "lastpx"]]}	finra	83.300000
+{"FetchData": [["lastpx", "side"], ["trddate"], ["marketdata"]]}	finra	91.880000
+{"FetchData": [["lastpx", "side"], ["marketdata"], ["trddate"]]}	finra	92.480000
+{"FetchData": [["lastpx", "side"], ["trddate", "marketdata"]]}	finra	84.810000
+{"FetchData": [["trddate", "marketdata", "lastpx"], ["side"]]}	finra	87.480000
+{"FetchData": [["trddate", "marketdata", "side"], ["lastpx"]]}	finra	83.530000
+{"FetchData": [["trddate", "lastpx", "side"], ["marketdata"]]}	finra	90.260000
+{"FetchData": [["marketdata", "lastpx", "side"], ["trddate"]]}	finra	91.490000
+{"FetchData": [["trddate", "marketdata", "lastpx", "side"]]}	finra	82.370000
+{"FetchData": [["volume"], ["trddate"], ["marketdata"], ["lastpx"]]}	finra	97.730000
+{"FetchData": [["volume"], ["trddate"], ["lastpx"], ["marketdata"]]}	finra	117.460000
+{"FetchData": [["volume"], ["trddate"], ["marketdata", "lastpx"]]}	finra	93.990000
+{"FetchData": [["volume"], ["marketdata"], ["trddate"], ["lastpx"]]}	finra	92.050000
+{"FetchData": [["volume"], ["marketdata"], ["lastpx"], ["trddate"]]}	finra	89.800000
+{"FetchData": [["volume"], ["marketdata"], ["trddate", "lastpx"]]}	finra	88.330000
+{"FetchData": [["volume"], ["lastpx"], ["trddate"], ["marketdata"]]}	finra	108.010000
+{"FetchData": [["volume"], ["lastpx"], ["marketdata"], ["trddate"]]}	finra	113.310000
+{"FetchData": [["volume"], ["lastpx"], ["trddate", "marketdata"]]}	finra	90.180000
+{"FetchData": [["volume"], ["trddate", "marketdata"], ["lastpx"]]}	finra	96.030000
+{"FetchData": [["volume"], ["trddate", "lastpx"], ["marketdata"]]}	finra	98.060000
+{"FetchData": [["volume"], ["marketdata", "lastpx"], ["trddate"]]}	finra	92.360000
+{"FetchData": [["volume"], ["trddate", "marketdata", "lastpx"]]}	finra	88.300000
+{"FetchData": [["trddate"], ["volume"], ["marketdata"], ["lastpx"]]}	finra	94.430000
+{"FetchData": [["trddate"], ["volume"], ["lastpx"], ["marketdata"]]}	finra	109.160000
+{"FetchData": [["trddate"], ["volume"], ["marketdata", "lastpx"]]}	finra	98.120000
+{"FetchData": [["trddate"], ["marketdata"], ["volume"], ["lastpx"]]}	finra	91.580000
+{"FetchData": [["trddate"], ["marketdata"], ["lastpx"], ["volume"]]}	finra	89.870000
+{"FetchData": [["trddate"], ["marketdata"], ["volume", "lastpx"]]}	finra	88.280000
+{"FetchData": [["trddate"], ["lastpx"], ["volume"], ["marketdata"]]}	finra	114.080000
+{"FetchData": [["trddate"], ["lastpx"], ["marketdata"], ["volume"]]}	finra	105.990000
+{"FetchData": [["trddate"], ["lastpx"], ["volume", "marketdata"]]}	finra	90.840000
+{"FetchData": [["trddate"], ["volume", "marketdata"], ["lastpx"]]}	finra	91.030000
+{"FetchData": [["trddate"], ["volume", "lastpx"], ["marketdata"]]}	finra	112.370000
+{"FetchData": [["trddate"], ["marketdata", "lastpx"], ["volume"]]}	finra	91.250000
+{"FetchData": [["trddate"], ["volume", "marketdata", "lastpx"]]}	finra	86.980000
+{"FetchData": [["marketdata"], ["volume"], ["trddate"], ["lastpx"]]}	finra	107.660000
+{"FetchData": [["marketdata"], ["volume"], ["lastpx"], ["trddate"]]}	finra	98.070000
+{"FetchData": [["marketdata"], ["volume"], ["trddate", "lastpx"]]}	finra	83.830000
+{"FetchData": [["marketdata"], ["trddate"], ["volume"], ["lastpx"]]}	finra	84.380000
+{"FetchData": [["marketdata"], ["trddate"], ["lastpx"], ["volume"]]}	finra	83.720000
+{"FetchData": [["marketdata"], ["trddate"], ["volume", "lastpx"]]}	finra	83.990000
+{"FetchData": [["marketdata"], ["lastpx"], ["volume"], ["trddate"]]}	finra	85.070000
+{"FetchData": [["marketdata"], ["lastpx"], ["trddate"], ["volume"]]}	finra	84.330000
+{"FetchData": [["marketdata"], ["lastpx"], ["volume", "trddate"]]}	finra	84.500000
+{"FetchData": [["marketdata"], ["volume", "trddate"], ["lastpx"]]}	finra	83.890000
+{"FetchData": [["marketdata"], ["volume", "lastpx"], ["trddate"]]}	finra	82.280000
+{"FetchData": [["marketdata"], ["trddate", "lastpx"], ["volume"]]}	finra	81.720000
+{"FetchData": [["marketdata"], ["volume", "trddate", "lastpx"]]}	finra	83.240000
+{"FetchData": [["lastpx"], ["volume"], ["trddate"], ["marketdata"]]}	finra	100.820000
+{"FetchData": [["lastpx"], ["volume"], ["marketdata"], ["trddate"]]}	finra	98.670000
+{"FetchData": [["lastpx"], ["volume"], ["trddate", "marketdata"]]}	finra	89.410000
+{"FetchData": [["lastpx"], ["trddate"], ["volume"], ["marketdata"]]}	finra	111.580000
+{"FetchData": [["lastpx"], ["trddate"], ["marketdata"], ["volume"]]}	finra	109.980000
+{"FetchData": [["lastpx"], ["trddate"], ["volume", "marketdata"]]}	finra	90.210000
+{"FetchData": [["lastpx"], ["marketdata"], ["volume"], ["trddate"]]}	finra	100.680000
+{"FetchData": [["lastpx"], ["marketdata"], ["trddate"], ["volume"]]}	finra	87.860000
+{"FetchData": [["lastpx"], ["marketdata"], ["volume", "trddate"]]}	finra	86.930000
+{"FetchData": [["lastpx"], ["volume", "trddate"], ["marketdata"]]}	finra	93.230000
+{"FetchData": [["lastpx"], ["volume", "marketdata"], ["trddate"]]}	finra	92.730000
+{"FetchData": [["lastpx"], ["trddate", "marketdata"], ["volume"]]}	finra	88.440000
+{"FetchData": [["lastpx"], ["volume", "trddate", "marketdata"]]}	finra	86.930000
+{"FetchData": [["volume", "trddate"], ["marketdata"], ["lastpx"]]}	finra	88.270000
+{"FetchData": [["volume", "trddate"], ["lastpx"], ["marketdata"]]}	finra	110.630000
+{"FetchData": [["volume", "trddate"], ["marketdata", "lastpx"]]}	finra	95.500000
+{"FetchData": [["volume", "marketdata"], ["trddate"], ["lastpx"]]}	finra	97.730000
+{"FetchData": [["volume", "marketdata"], ["lastpx"], ["trddate"]]}	finra	83.830000
+{"FetchData": [["volume", "marketdata"], ["trddate", "lastpx"]]}	finra	84.440000
+{"FetchData": [["volume", "lastpx"], ["trddate"], ["marketdata"]]}	finra	92.960000
+{"FetchData": [["volume", "lastpx"], ["marketdata"], ["trddate"]]}	finra	90.450000
+{"FetchData": [["volume", "lastpx"], ["trddate", "marketdata"]]}	finra	86.940000
+{"FetchData": [["trddate", "marketdata"], ["volume"], ["lastpx"]]}	finra	89.470000
+{"FetchData": [["trddate", "marketdata"], ["lastpx"], ["volume"]]}	finra	83.920000
+{"FetchData": [["trddate", "marketdata"], ["volume", "lastpx"]]}	finra	83.900000
+{"FetchData": [["trddate", "lastpx"], ["volume"], ["marketdata"]]}	finra	95.910000
+{"FetchData": [["trddate", "lastpx"], ["marketdata"], ["volume"]]}	finra	92.280000
+{"FetchData": [["trddate", "lastpx"], ["volume", "marketdata"]]}	finra	86.820000
+{"FetchData": [["marketdata", "lastpx"], ["volume"], ["trddate"]]}	finra	101.110000
+{"FetchData": [["marketdata", "lastpx"], ["trddate"], ["volume"]]}	finra	83.050000
+{"FetchData": [["marketdata", "lastpx"], ["volume", "trddate"]]}	finra	83.670000
+{"FetchData": [["volume", "trddate", "marketdata"], ["lastpx"]]}	finra	84.060000
+{"FetchData": [["volume", "trddate", "lastpx"], ["marketdata"]]}	finra	91.000000
+{"FetchData": [["volume", "marketdata", "lastpx"], ["trddate"]]}	finra	97.930000
+{"FetchData": [["trddate", "marketdata", "lastpx"], ["volume"]]}	finra	83.900000
+{"FetchData": [["volume", "trddate", "marketdata", "lastpx"]]}	finra	81.730000
+{"FetchData": [["volume"], ["lastpx"], ["side"]]}	finra	100.660000
+{"FetchData": [["volume"], ["side"], ["lastpx"]]}	finra	100.170000
+{"FetchData": [["volume"], ["lastpx", "side"]]}	finra	97.630000
+{"FetchData": [["lastpx"], ["volume"], ["side"]]}	finra	101.200000
+{"FetchData": [["lastpx"], ["side"], ["volume"]]}	finra	101.840000
+{"FetchData": [["lastpx"], ["volume", "side"]]}	finra	99.280000
+{"FetchData": [["side"], ["volume"], ["lastpx"]]}	finra	101.120000
+{"FetchData": [["side"], ["lastpx"], ["volume"]]}	finra	100.510000
+{"FetchData": [["side"], ["volume", "lastpx"]]}	finra	98.320000
+{"FetchData": [["volume", "lastpx"], ["side"]]}	finra	98.040000
+{"FetchData": [["volume", "side"], ["lastpx"]]}	finra	97.900000
+{"FetchData": [["lastpx", "side"], ["volume"]]}	finra	97.590000
+{"FetchData": [["volume", "lastpx", "side"]]}	finra	93.880000
+{"FetchData": [["volume"], ["marketdata"], ["side"]]}	finra	108.570000
+{"FetchData": [["volume"], ["side"], ["marketdata"]]}	finra	89.630000
+{"FetchData": [["volume"], ["marketdata", "side"]]}	finra	107.760000
+{"FetchData": [["marketdata"], ["volume"], ["side"]]}	finra	101.330000
+{"FetchData": [["marketdata"], ["side"], ["volume"]]}	finra	100.960000
+{"FetchData": [["marketdata"], ["volume", "side"]]}	finra	81.830000
+{"FetchData": [["side"], ["volume"], ["marketdata"]]}	finra	92.130000
+{"FetchData": [["side"], ["marketdata"], ["volume"]]}	finra	97.500000
+{"FetchData": [["side"], ["volume", "marketdata"]]}	finra	86.180000
+{"FetchData": [["volume", "marketdata"], ["side"]]}	finra	96.830000
+{"FetchData": [["volume", "side"], ["marketdata"]]}	finra	87.550000
+{"FetchData": [["marketdata", "side"], ["volume"]]}	finra	92.500000
+{"FetchData": [["volume", "marketdata", "side"]]}	finra	80.860000
+{"FetchData": [["marketdata"], ["lastpx"], ["side"]]}	finra	81.480000
+{"FetchData": [["marketdata"], ["side"], ["lastpx"]]}	finra	82.550000
+{"FetchData": [["marketdata"], ["lastpx", "side"]]}	finra	81.070000
+{"FetchData": [["lastpx"], ["marketdata"], ["side"]]}	finra	105.170000
+{"FetchData": [["lastpx"], ["side"], ["marketdata"]]}	finra	96.160000
+{"FetchData": [["lastpx"], ["marketdata", "side"]]}	finra	88.550000
+{"FetchData": [["side"], ["marketdata"], ["lastpx"]]}	finra	86.510000
+{"FetchData": [["side"], ["lastpx"], ["marketdata"]]}	finra	92.730000
+{"FetchData": [["side"], ["marketdata", "lastpx"]]}	finra	88.460000
+{"FetchData": [["marketdata", "lastpx"], ["side"]]}	finra	102.180000
+{"FetchData": [["marketdata", "side"], ["lastpx"]]}	finra	82.300000
+{"FetchData": [["lastpx", "side"], ["marketdata"]]}	finra	90.550000
+{"FetchData": [["marketdata", "lastpx", "side"]]}	finra	103.280000
+{"FetchData": [["volume"], ["marketdata"], ["lastpx"]]}	finra	90.750000
+{"FetchData": [["volume"], ["lastpx"], ["marketdata"]]}	finra	109.170000
+{"FetchData": [["volume"], ["marketdata", "lastpx"]]}	finra	91.100000
+{"FetchData": [["marketdata"], ["volume"], ["lastpx"]]}	finra	91.920000
+{"FetchData": [["marketdata"], ["lastpx"], ["volume"]]}	finra	82.270000
+{"FetchData": [["marketdata"], ["volume", "lastpx"]]}	finra	82.360000
+{"FetchData": [["lastpx"], ["volume"], ["marketdata"]]}	finra	101.150000
+{"FetchData": [["lastpx"], ["marketdata"], ["volume"]]}	finra	109.150000
+{"FetchData": [["lastpx"], ["volume", "marketdata"]]}	finra	108.230000
+{"FetchData": [["volume", "marketdata"], ["lastpx"]]}	finra	104.800000
+{"FetchData": [["volume", "lastpx"], ["marketdata"]]}	finra	85.650000
+{"FetchData": [["marketdata", "lastpx"], ["volume"]]}	finra	91.190000
+{"FetchData": [["volume", "marketdata", "lastpx"]]}	finra	80.530000
+{"FetchData": [["volume"], ["trddate"], ["side"]]}	finra	101.880000
+{"FetchData": [["volume"], ["side"], ["trddate"]]}	finra	101.440000
+{"FetchData": [["volume"], ["trddate", "side"]]}	finra	97.430000
+{"FetchData": [["trddate"], ["volume"], ["side"]]}	finra	100.340000
+{"FetchData": [["trddate"], ["side"], ["volume"]]}	finra	101.240000
+{"FetchData": [["trddate"], ["volume", "side"]]}	finra	98.340000
+{"FetchData": [["side"], ["volume"], ["trddate"]]}	finra	100.900000
+{"FetchData": [["side"], ["trddate"], ["volume"]]}	finra	100.760000
+{"FetchData": [["side"], ["volume", "trddate"]]}	finra	97.840000
+{"FetchData": [["volume", "trddate"], ["side"]]}	finra	97.330000
+{"FetchData": [["volume", "side"], ["trddate"]]}	finra	98.650000
+{"FetchData": [["trddate", "side"], ["volume"]]}	finra	98.550000
+{"FetchData": [["volume", "trddate", "side"]]}	finra	94.530000
+{"FetchData": [["trddate"], ["lastpx"], ["side"]]}	finra	100.690000
+{"FetchData": [["trddate"], ["side"], ["lastpx"]]}	finra	101.180000
+{"FetchData": [["trddate"], ["lastpx", "side"]]}	finra	97.940000
+{"FetchData": [["lastpx"], ["trddate"], ["side"]]}	finra	102.170000
+{"FetchData": [["lastpx"], ["side"], ["trddate"]]}	finra	101.490000
+{"FetchData": [["lastpx"], ["trddate", "side"]]}	finra	97.370000
+{"FetchData": [["side"], ["trddate"], ["lastpx"]]}	finra	100.990000
+{"FetchData": [["side"], ["lastpx"], ["trddate"]]}	finra	101.100000
+{"FetchData": [["side"], ["trddate", "lastpx"]]}	finra	98.120000
+{"FetchData": [["trddate", "lastpx"], ["side"]]}	finra	97.590000
+{"FetchData": [["trddate", "side"], ["lastpx"]]}	finra	98.660000
+{"FetchData": [["lastpx", "side"], ["trddate"]]}	finra	98.650000
+{"FetchData": [["trddate", "lastpx", "side"]]}	finra	95.200000
+{"FetchData": [["volume"], ["trddate"], ["lastpx"]]}	finra	100.440000
+{"FetchData": [["volume"], ["lastpx"], ["trddate"]]}	finra	102.330000
+{"FetchData": [["volume"], ["trddate", "lastpx"]]}	finra	98.110000
+{"FetchData": [["trddate"], ["volume"], ["lastpx"]]}	finra	101.770000
+{"FetchData": [["trddate"], ["lastpx"], ["volume"]]}	finra	101.200000
+{"FetchData": [["trddate"], ["volume", "lastpx"]]}	finra	98.080000
+{"FetchData": [["lastpx"], ["volume"], ["trddate"]]}	finra	101.660000
+{"FetchData": [["lastpx"], ["trddate"], ["volume"]]}	finra	102.090000
+{"FetchData": [["lastpx"], ["volume", "trddate"]]}	finra	98.450000
+{"FetchData": [["volume", "trddate"], ["lastpx"]]}	finra	97.950000
+{"FetchData": [["volume", "lastpx"], ["trddate"]]}	finra	98.130000
+{"FetchData": [["trddate", "lastpx"], ["volume"]]}	finra	98.530000
+{"FetchData": [["volume", "trddate", "lastpx"]]}	finra	94.670000
+{"FetchData": [["trddate"], ["marketdata"], ["side"]]}	finra	94.140000
+{"FetchData": [["trddate"], ["side"], ["marketdata"]]}	finra	94.400000
+{"FetchData": [["trddate"], ["marketdata", "side"]]}	finra	86.040000
+{"FetchData": [["marketdata"], ["trddate"], ["side"]]}	finra	98.750000
+{"FetchData": [["marketdata"], ["side"], ["trddate"]]}	finra	82.100000
+{"FetchData": [["marketdata"], ["trddate", "side"]]}	finra	81.930000
+{"FetchData": [["side"], ["trddate"], ["marketdata"]]}	finra	98.070000
+{"FetchData": [["side"], ["marketdata"], ["trddate"]]}	finra	94.690000
+{"FetchData": [["side"], ["trddate", "marketdata"]]}	finra	84.220000
+{"FetchData": [["trddate", "marketdata"], ["side"]]}	finra	104.860000
+{"FetchData": [["trddate", "side"], ["marketdata"]]}	finra	101.630000
+{"FetchData": [["marketdata", "side"], ["trddate"]]}	finra	96.080000
+{"FetchData": [["trddate", "marketdata", "side"]]}	finra	79.060000
+{"FetchData": [["volume"], ["trddate"], ["marketdata"]]}	finra	98.040000
+{"FetchData": [["volume"], ["marketdata"], ["trddate"]]}	finra	108.570000
+{"FetchData": [["volume"], ["trddate", "marketdata"]]}	finra	105.420000
+{"FetchData": [["trddate"], ["volume"], ["marketdata"]]}	finra	101.340000
+{"FetchData": [["trddate"], ["marketdata"], ["volume"]]}	finra	108.410000
+{"FetchData": [["trddate"], ["volume", "marketdata"]]}	finra	95.750000
+{"FetchData": [["marketdata"], ["volume"], ["trddate"]]}	finra	104.670000
+{"FetchData": [["marketdata"], ["trddate"], ["volume"]]}	finra	97.490000
+{"FetchData": [["marketdata"], ["volume", "trddate"]]}	finra	81.900000
+{"FetchData": [["volume", "trddate"], ["marketdata"]]}	finra	89.540000
+{"FetchData": [["volume", "marketdata"], ["trddate"]]}	finra	104.560000
+{"FetchData": [["trddate", "marketdata"], ["volume"]]}	finra	104.470000
+{"FetchData": [["volume", "trddate", "marketdata"]]}	finra	81.860000
+{"FetchData": [["trddate"], ["marketdata"], ["lastpx"]]}	finra	94.710000
+{"FetchData": [["trddate"], ["lastpx"], ["marketdata"]]}	finra	90.760000
+{"FetchData": [["trddate"], ["marketdata", "lastpx"]]}	finra	90.070000
+{"FetchData": [["marketdata"], ["trddate"], ["lastpx"]]}	finra	104.470000
+{"FetchData": [["marketdata"], ["lastpx"], ["trddate"]]}	finra	92.360000
+{"FetchData": [["marketdata"], ["trddate", "lastpx"]]}	finra	82.160000
+{"FetchData": [["lastpx"], ["trddate"], ["marketdata"]]}	finra	98.720000
+{"FetchData": [["lastpx"], ["marketdata"], ["trddate"]]}	finra	89.600000
+{"FetchData": [["lastpx"], ["trddate", "marketdata"]]}	finra	85.850000
+{"FetchData": [["trddate", "marketdata"], ["lastpx"]]}	finra	105.310000
+{"FetchData": [["trddate", "lastpx"], ["marketdata"]]}	finra	104.950000
+{"FetchData": [["marketdata", "lastpx"], ["trddate"]]}	finra	83.880000
+{"FetchData": [["trddate", "marketdata", "lastpx"]]}	finra	79.940000
+{"FetchData": [["volume"], ["side"]]}	finra	98.050000
+{"FetchData": [["side"], ["volume"]]}	finra	98.740000
+{"FetchData": [["volume", "side"]]}	finra	95.860000
+{"FetchData": [["lastpx"], ["side"]]}	finra	98.230000
+{"FetchData": [["side"], ["lastpx"]]}	finra	98.560000
+{"FetchData": [["lastpx", "side"]]}	finra	95.190000
+{"FetchData": [["volume"], ["lastpx"]]}	finra	98.790000
+{"FetchData": [["lastpx"], ["volume"]]}	finra	98.660000
+{"FetchData": [["volume", "lastpx"]]}	finra	96.290000
+{"FetchData": [["marketdata"], ["side"]]}	finra	104.240000
+{"FetchData": [["side"], ["marketdata"]]}	finra	90.110000
+{"FetchData": [["marketdata", "side"]]}	finra	102.290000
+{"FetchData": [["volume"], ["marketdata"]]}	finra	95.610000
+{"FetchData": [["marketdata"], ["volume"]]}	finra	83.150000
+{"FetchData": [["volume", "marketdata"]]}	finra	81.180000
+{"FetchData": [["marketdata"], ["lastpx"]]}	finra	80.960000
+{"FetchData": [["lastpx"], ["marketdata"]]}	finra	86.920000
+{"FetchData": [["marketdata", "lastpx"]]}	finra	85.740000
+{"FetchData": [["trddate"], ["side"]]}	finra	97.470000
+{"FetchData": [["side"], ["trddate"]]}	finra	98.210000
+{"FetchData": [["trddate", "side"]]}	finra	95.580000
+{"FetchData": [["volume"], ["trddate"]]}	finra	98.630000
+{"FetchData": [["trddate"], ["volume"]]}	finra	98.300000
+{"FetchData": [["volume", "trddate"]]}	finra	95.580000
+{"FetchData": [["trddate"], ["lastpx"]]}	finra	99.060000
+{"FetchData": [["lastpx"], ["trddate"]]}	finra	98.150000
+{"FetchData": [["trddate", "lastpx"]]}	finra	95.420000
+{"FetchData": [["trddate"], ["marketdata"]]}	finra	87.950000
+{"FetchData": [["marketdata"], ["trddate"]]}	finra	103.480000
+{"FetchData": [["trddate", "marketdata"]]}	finra	82.650000
+{"FetchData": [["side"]]}	finra	98.210000
+{"FetchData": [["volume"]]}	finra	96.230000
+{"FetchData": [["lastpx"]]}	finra	96.820000
+{"FetchData": [["marketdata"]]}	finra	103.440000
+{"FetchData": [["trddate"]]}	finra	98.220000
+{}	finra	85.550000

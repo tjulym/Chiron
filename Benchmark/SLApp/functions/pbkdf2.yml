@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  pbkdf2:
+    lang: python3-flask
+    handler: ./pbkdf2
+    image: pbkdf2:latest
+    labels:
+      "com.openfaas.scale.max": "1"

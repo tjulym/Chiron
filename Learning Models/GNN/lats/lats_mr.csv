@@ -1,0 +1,975 @@
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	53.2
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.48
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.42
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.94
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.62
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.58
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.48
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.43
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.58
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	48.8
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	47.6
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	43.2
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["MRUploadText"]]}	mr	33.33
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	52.63
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.67
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.08
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.01
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	53.44
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	57.33
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.52
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.62
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	58.16
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	51.59
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	48.73
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	50.19
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadUserId"]]}	mr	36.5
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.42
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.73
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.62
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.94
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.19
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.83
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.48
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.88
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.45
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	47.19
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	47.85
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	46.86
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId", "MRUploadText"]]}	mr	32.77
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.89
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.43
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.59
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.12
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.54
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.44
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.16
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.21
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.95
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	48.88
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	47.51
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	43.01
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["MRUploadText"]]}	mr	33.37
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.71
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.79
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.83
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.15
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.99
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.52
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.58
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.4
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.3
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	47.03
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	48.5
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	43.74
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["MRUploadUniqueId"]]}	mr	33.33
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.06
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.73
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.86
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.84
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.71
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	48.93
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.54
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.2
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.22
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	45.3
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	45.9
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	39.76
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId", "MRUploadText"]]}	mr	30.87
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.07
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.99
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	58.69
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	53.16
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.49
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.34
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	53.44
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.69
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	56.67
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	50.29
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	49.24
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	44.25
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadUserId"]]}	mr	34.65
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.49
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.13
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.83
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	51.86
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.52
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.46
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.67
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.86
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.64
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	49.0
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	50.56
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	48.83
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["MRUploadUniqueId"]]}	mr	32.63
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.09
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.67
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.36
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.07
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.26
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.32
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.85
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.46
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.93
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	47.59
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	47.31
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	47.41
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId", "UploadUserId"]]}	mr	33.11
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.89
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.61
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	53.75
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.06
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.3
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.04
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.69
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.94
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.0
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	46.93
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	46.7
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	47.35
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["MRUploadText"]]}	mr	31.69
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.77
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.69
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.14
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.73
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.79
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.61
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.35
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.21
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.16
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	45.67
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	45.92
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	47.28
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadUserId"]]}	mr	32.65
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.36
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.26
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.46
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	47.96
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	46.89
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.92
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	47.46
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.82
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.17
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	45.25
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	45.55
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	45.86
+{"Upload": [["UploadUserId", "MRUploadText"], ["MRUploadUniqueId"]]}	mr	31.84
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	48.24
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	47.84
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	51.24
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.46
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	46.26
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	49.52
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	46.59
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.53
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.75
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	44.31
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	44.69
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	39.02
+{"Upload": [["MRUploadUniqueId", "UploadUserId", "MRUploadText"]]}	mr	30.12
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.02
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.85
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.63
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.13
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.17
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.9
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.39
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.87
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.96
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	47.8
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	49.49
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	49.21
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadText"]]}	mr	34.17
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.02
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.72
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.73
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.56
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.66
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.74
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	51.72
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	52.31
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.95
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	49.12
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	49.61
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	45.15
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["UploadUserId"]]}	mr	35.99
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.09
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.05
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.15
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.47
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.82
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.04
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.33
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.86
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.0
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	46.23
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	47.54
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	41.86
+{"Upload": [["UploadMovieid"], ["UploadUserId", "MRUploadText"]]}	mr	33.05
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.28
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.46
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.88
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.16
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.23
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.65
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	51.38
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.07
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.86
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	48.49
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	49.85
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	49.73
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadText"]]}	mr	34.61
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	52.6
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.55
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.16
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.48
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.17
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.25
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.04
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	52.24
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.21
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	49.85
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	50.24
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	45.71
+{"Upload": [["UploadUserId"], ["MRUploadText"], ["UploadMovieid"]]}	mr	36.33
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.12
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.53
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.58
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.85
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.08
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.9
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.57
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.27
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.26
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	48.27
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	48.21
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	42.29
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadText"]]}	mr	32.94
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	53.64
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.04
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.76
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.87
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.72
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.83
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.91
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	52.88
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.53
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	48.76
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	48.39
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	49.93
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["UploadUserId"]]}	mr	35.73
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.08
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.49
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.77
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.4
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	52.2
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.77
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	53.57
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.63
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.4
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	50.13
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	52.52
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	45.76
+{"Upload": [["MRUploadText"], ["UploadUserId"], ["UploadMovieid"]]}	mr	36.44
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.91
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.73
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.49
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.09
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.25
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.04
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	51.37
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.42
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.3
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	48.8
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	49.4
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	42.0
+{"Upload": [["MRUploadText"], ["UploadMovieid", "UploadUserId"]]}	mr	35.25
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.76
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.57
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.28
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.7
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.31
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.44
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.22
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.52
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.25
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	46.84
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	46.69
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	41.37
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadText"]]}	mr	32.99
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.61
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.57
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.48
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.7
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.57
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.68
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.15
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.6
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.33
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	45.95
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	46.98
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	41.72
+{"Upload": [["UploadMovieid", "MRUploadText"], ["UploadUserId"]]}	mr	32.61
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.0
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.11
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.53
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.66
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.07
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.01
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.26
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.35
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.48
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	44.6
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	46.66
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	41.71
+{"Upload": [["UploadUserId", "MRUploadText"], ["UploadMovieid"]]}	mr	32.3
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.91
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.43
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	53.84
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	47.55
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.36
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	49.86
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	47.65
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.58
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.05
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	45.52
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	46.38
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	39.98
+{"Upload": [["UploadMovieid", "UploadUserId", "MRUploadText"]]}	mr	30.95
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.78
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.59
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.49
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.27
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.73
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.1
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.63
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.96
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.27
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	48.0
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	48.12
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	41.77
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["MRUploadText"]]}	mr	33.37
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.32
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.04
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.78
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.97
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.17
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.29
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	51.44
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.92
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.52
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	48.03
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	47.81
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	47.18
+{"Upload": [["UploadMovieid"], ["MRUploadText"], ["MRUploadUniqueId"]]}	mr	34.53
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.05
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.22
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	53.14
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	47.85
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.26
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.81
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.05
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.85
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.54
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	46.03
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	45.66
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	45.65
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "MRUploadText"]]}	mr	31.85
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.3
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.65
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	85.2
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	51.43
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.63
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	85.51
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.32
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.18
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	79.87
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	70.34
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	63.02
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	45.24
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["MRUploadText"]]}	mr	34.49
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	53.56
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.77
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.58
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.76
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.11
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.91
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.08
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	52.12
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	56.53
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	49.12
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	49.47
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	51.13
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"], ["UploadMovieid"]]}	mr	35.53
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.83
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.74
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.45
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.83
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.57
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.35
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.5
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.53
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	54.27
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	48.16
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	46.85
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	46.93
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "MRUploadText"]]}	mr	32.97
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	53.8
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.63
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.21
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.38
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.88
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.33
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.47
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.07
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.67
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	49.23
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	48.82
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	43.39
+{"Upload": [["MRUploadText"], ["UploadMovieid"], ["MRUploadUniqueId"]]}	mr	35.21
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.15
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	54.19
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.94
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	53.18
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	52.05
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.83
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.24
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	52.05
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	57.08
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	49.8
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	49.88
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	50.81
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"], ["UploadMovieid"]]}	mr	36.23
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.71
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.28
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.93
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.09
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.2
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.39
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.71
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.81
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.22
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	46.52
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	48.24
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	47.92
+{"Upload": [["MRUploadText"], ["UploadMovieid", "MRUploadUniqueId"]]}	mr	32.34
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.89
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.81
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.18
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.68
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.27
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.22
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.93
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	45.88
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	46.75
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	46.21
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["MRUploadText"]]}	mr	31.52
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.58
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.24
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	53.35
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.16
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.73
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.38
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.15
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.81
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.75
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	45.02
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	43.73
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	46.58
+{"Upload": [["UploadMovieid", "MRUploadText"], ["MRUploadUniqueId"]]}	mr	31.71
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.2
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.14
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.69
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.69
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.56
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.25
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.67
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.3
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	54.28
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	48.12
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	47.92
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	47.84
+{"Upload": [["MRUploadUniqueId", "MRUploadText"], ["UploadMovieid"]]}	mr	33.56
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	48.0
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.0
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.05
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	46.85
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.76
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	47.92
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.5
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.12
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	44.71
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	44.45
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	43.45
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "MRUploadText"]]}	mr	29.91
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	55.39
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	54.36
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.25
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	51.14
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.83
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.2
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.69
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	52.55
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.08
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	49.77
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	49.83
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	45.04
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"], ["UploadUserId"]]}	mr	36.15
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	52.48
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.0
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	58.07
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.4
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.51
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.36
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.53
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.95
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.12
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	49.42
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	48.56
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	48.36
+{"Upload": [["UploadMovieid"], ["UploadUserId"], ["MRUploadUniqueId"]]}	mr	34.75
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.93
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.9
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.11
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	51.26
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.53
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.91
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.87
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.45
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.04
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	47.91
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	47.48
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	47.64
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId", "UploadUserId"]]}	mr	33.02
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.05
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.53
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	59.96
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	53.53
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	52.26
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	57.25
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	53.37
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	53.14
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	58.58
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	51.73
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	50.62
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	42.86
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"], ["UploadUserId"]]}	mr	36.28
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	53.72
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	54.23
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	57.8
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	53.23
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	52.11
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.58
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.54
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.75
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.86
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	50.15
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	50.27
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	48.68
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"], ["UploadMovieid"]]}	mr	35.81
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	52.96
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.11
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.73
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	51.44
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.74
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	55.17
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.83
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.27
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	54.81
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	49.25
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	49.36
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	43.55
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid", "UploadUserId"]]}	mr	34.69
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	52.37
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.82
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.26
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	51.62
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	51.13
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	54.6
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.57
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.77
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.25
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	49.09
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	49.94
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	43.55
+{"Upload": [["UploadUserId"], ["UploadMovieid"], ["MRUploadUniqueId"]]}	mr	35.49
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.03
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	53.39
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	59.23
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	52.44
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	52.07
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	56.24
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	52.11
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.73
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	55.09
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	49.63
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	49.83
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	50.74
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"], ["UploadMovieid"]]}	mr	36.42
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.35
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.5
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.26
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.34
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.48
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.06
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.89
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.38
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.5
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	47.65
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	46.79
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	42.75
+{"Upload": [["UploadUserId"], ["UploadMovieid", "MRUploadUniqueId"]]}	mr	33.03
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.24
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.88
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.19
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.95
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.23
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.8
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.43
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.25
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	47.33
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	47.05
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	41.88
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"], ["UploadUserId"]]}	mr	33.43
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.84
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.76
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.18
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.37
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.28
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.58
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.6
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.91
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	54.15
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	46.95
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	46.55
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	42.39
+{"Upload": [["UploadMovieid", "UploadUserId"], ["MRUploadUniqueId"]]}	mr	32.63
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.27
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.82
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.52
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.13
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.62
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.65
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.43
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.57
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.15
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	48.67
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	47.81
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	42.99
+{"Upload": [["MRUploadUniqueId", "UploadUserId"], ["UploadMovieid"]]}	mr	34.23
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.24
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.71
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	53.97
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.72
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.87
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.91
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.66
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.22
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	45.6
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	45.39
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	40.1
+{"Upload": [["UploadMovieid", "MRUploadUniqueId", "UploadUserId"]]}	mr	31.97
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.46
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.65
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.66
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.69
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.76
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.14
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.46
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.14
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.47
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	46.34
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	46.43
+{"Upload": [["UploadUserId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	42.45
+{"Upload": [["UploadUserId"], ["MRUploadText"]]}	mr	31.36
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.3
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.3
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	56.31
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.55
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.2
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.74
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.81
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.58
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.46
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	48.52
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	47.42
+{"Upload": [["MRUploadText"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	41.4
+{"Upload": [["MRUploadText"], ["UploadUserId"]]}	mr	32.77
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	47.88
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	46.89
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	51.28
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.24
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	45.95
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	48.81
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	46.89
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.34
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.2
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	43.67
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	43.5
+{"Upload": [["UploadUserId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	40.05
+{"Upload": [["UploadUserId", "MRUploadText"]]}	mr	29.76
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	47.11
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.25
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	50.57
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	45.04
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	46.67
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.48
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	46.02
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.35
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	49.25
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	44.34
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	45.28
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	45.2
+{"Upload": [["MRUploadUniqueId"], ["MRUploadText"]]}	mr	30.01
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	47.3
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.19
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.69
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.46
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	46.2
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.89
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	45.89
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.21
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.88
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	44.73
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	44.91
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	44.92
+{"Upload": [["MRUploadText"], ["MRUploadUniqueId"]]}	mr	30.74
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	45.64
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	45.34
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	51.35
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	45.77
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	44.12
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.6
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	44.92
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	45.95
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	49.38
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	42.92
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	42.61
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	38.34
+{"Upload": [["MRUploadUniqueId", "MRUploadText"]]}	mr	27.52
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.6
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.48
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.87
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.58
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.43
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.96
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.12
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.02
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.98
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	47.83
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	47.26
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	41.89
+{"Upload": [["MRUploadUniqueId"], ["UploadUserId"]]}	mr	32.77
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.61
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.4
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.76
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.19
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.81
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.24
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.45
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.94
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.14
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	45.58
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	45.47
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	40.63
+{"Upload": [["UploadUserId"], ["MRUploadUniqueId"]]}	mr	31.59
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	48.78
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.23
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.29
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	47.4
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.64
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.37
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.09
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	47.37
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	49.45
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	45.25
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	45.73
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	40.32
+{"Upload": [["MRUploadUniqueId", "UploadUserId"]]}	mr	30.08
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	48.95
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	50.03
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.19
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.74
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.54
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	52.89
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	47.8
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.4
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.32
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	46.9
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	45.58
+{"Upload": [["UploadMovieid"], ["MRUploadText"]], "Store": [["StoreReview"]]}	mr	41.37
+{"Upload": [["UploadMovieid"], ["MRUploadText"]]}	mr	30.9
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.22
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.09
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.33
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.13
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	49.43
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.22
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.95
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	51.27
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	53.85
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	47.95
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	46.55
+{"Upload": [["MRUploadText"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	42.59
+{"Upload": [["MRUploadText"], ["UploadMovieid"]]}	mr	33.05
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	47.93
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.13
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.66
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.27
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.58
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	49.73
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	46.69
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.73
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	49.89
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	44.0
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	44.36
+{"Upload": [["UploadMovieid", "MRUploadText"]], "Store": [["StoreReview"]]}	mr	39.4
+{"Upload": [["UploadMovieid", "MRUploadText"]]}	mr	30.12
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.46
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	52.19
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.06
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	50.86
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.04
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.47
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	49.99
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.75
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.15
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	48.32
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	48.65
+{"Upload": [["UploadMovieid"], ["UploadUserId"]], "Store": [["StoreReview"]]}	mr	42.98
+{"Upload": [["UploadMovieid"], ["UploadUserId"]]}	mr	32.3
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	54.45
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.84
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	54.64
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.57
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.53
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.07
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.76
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	50.26
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.24
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	46.07
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	47.21
+{"Upload": [["UploadUserId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	42.05
+{"Upload": [["UploadUserId"], ["UploadMovieid"]]}	mr	33.78
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	51.8
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	49.15
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.35
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	49.02
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.05
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.67
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	48.33
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.39
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	51.51
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	45.91
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	46.22
+{"Upload": [["UploadMovieid", "UploadUserId"]], "Store": [["StoreReview"]]}	mr	41.06
+{"Upload": [["UploadMovieid", "UploadUserId"]]}	mr	31.79
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	49.29
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.94
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	53.53
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.64
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	47.92
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.49
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.58
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	48.43
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.26
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	45.92
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	47.6
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	41.45
+{"Upload": [["UploadMovieid"], ["MRUploadUniqueId"]]}	mr	31.72
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	50.82
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	51.61
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	55.42
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	48.88
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	50.39
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	53.07
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	50.0
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	49.78
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	54.39
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	47.62
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	48.12
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	42.7
+{"Upload": [["MRUploadUniqueId"], ["UploadMovieid"]]}	mr	33.18
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	47.71
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	48.46
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	51.44
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	47.8
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	48.19
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	49.36
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	46.48
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.18
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	44.43
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	44.17
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	39.19
+{"Upload": [["UploadMovieid", "MRUploadUniqueId"]]}	mr	30.01
+{"Upload": [["MRUploadText"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	45.28
+{"Upload": [["MRUploadText"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	46.6
+{"Upload": [["MRUploadText"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	49.87
+{"Upload": [["MRUploadText"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	43.62
+{"Upload": [["MRUploadText"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	43.65
+{"Upload": [["MRUploadText"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	47.71
+{"Upload": [["MRUploadText"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	43.95
+{"Upload": [["MRUploadText"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	42.96
+{"Upload": [["MRUploadText"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	47.85
+{"Upload": [["MRUploadText"]], "Store": [["UploadMovieReview"]]}	mr	41.13
+{"Upload": [["MRUploadText"]], "Store": [["UploadUserReview"]]}	mr	42.2
+{"Upload": [["MRUploadText"]], "Store": [["StoreReview"]]}	mr	37.05
+{"Upload": [["MRUploadText"]]}	mr	25.97
+{"Upload": [["UploadUserId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	48.48
+{"Upload": [["UploadUserId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	47.26
+{"Upload": [["UploadUserId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	52.32
+{"Upload": [["UploadUserId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	46.64
+{"Upload": [["UploadUserId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	46.05
+{"Upload": [["UploadUserId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	51.36
+{"Upload": [["UploadUserId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	46.19
+{"Upload": [["UploadUserId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.11
+{"Upload": [["UploadUserId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	50.07
+{"Upload": [["UploadUserId"]], "Store": [["UploadMovieReview"]]}	mr	44.68
+{"Upload": [["UploadUserId"]], "Store": [["UploadUserReview"]]}	mr	44.01
+{"Upload": [["UploadUserId"]], "Store": [["StoreReview"]]}	mr	39.52
+{"Upload": [["UploadUserId"]]}	mr	29.43
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	45.34
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	45.55
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	48.36
+{"Upload": [["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	44.43
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	43.44
+{"Upload": [["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	46.99
+{"Upload": [["MRUploadUniqueId"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	44.41
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	42.19
+{"Upload": [["MRUploadUniqueId"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	48.48
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadMovieReview"]]}	mr	41.38
+{"Upload": [["MRUploadUniqueId"]], "Store": [["UploadUserReview"]]}	mr	43.03
+{"Upload": [["MRUploadUniqueId"]], "Store": [["StoreReview"]]}	mr	41.94
+{"Upload": [["MRUploadUniqueId"]]}	mr	27.92
+{"Upload": [["UploadMovieid"]], "Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	47.77
+{"Upload": [["UploadMovieid"]], "Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	47.43
+{"Upload": [["UploadMovieid"]], "Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	51.24
+{"Upload": [["UploadMovieid"]], "Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	47.15
+{"Upload": [["UploadMovieid"]], "Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	45.57
+{"Upload": [["UploadMovieid"]], "Store": [["StoreReview", "UploadMovieReview"]]}	mr	50.48
+{"Upload": [["UploadMovieid"]], "Store": [["StoreReview"], ["UploadUserReview"]]}	mr	47.05
+{"Upload": [["UploadMovieid"]], "Store": [["UploadUserReview"], ["StoreReview"]]}	mr	46.3
+{"Upload": [["UploadMovieid"]], "Store": [["StoreReview", "UploadUserReview"]]}	mr	52.05
+{"Upload": [["UploadMovieid"]], "Store": [["UploadMovieReview"]]}	mr	45.03
+{"Upload": [["UploadMovieid"]], "Store": [["UploadUserReview"]]}	mr	45.25
+{"Upload": [["UploadMovieid"]], "Store": [["StoreReview"]]}	mr	38.37
+{"Upload": [["UploadMovieid"]]}	mr	29.05
+{"Store": [["UploadUserReview"], ["UploadMovieReview"]]}	mr	40.71
+{"Store": [["UploadMovieReview"], ["UploadUserReview"]]}	mr	40.46
+{"Store": [["UploadUserReview", "UploadMovieReview"]]}	mr	45.78
+{"Store": [["StoreReview"], ["UploadMovieReview"]]}	mr	39.91
+{"Store": [["UploadMovieReview"], ["StoreReview"]]}	mr	37.68
+{"Store": [["StoreReview", "UploadMovieReview"]]}	mr	45.11
+{"Store": [["StoreReview"], ["UploadUserReview"]]}	mr	41.76
+{"Store": [["UploadUserReview"], ["StoreReview"]]}	mr	39.05
+{"Store": [["StoreReview", "UploadUserReview"]]}	mr	41.7
+{"Store": [["UploadMovieReview"]]}	mr	36.94
+{"Store": [["UploadUserReview"]]}	mr	35.69
+{"Store": [["StoreReview"]]}	mr	31.61
+{}	mr	19.01

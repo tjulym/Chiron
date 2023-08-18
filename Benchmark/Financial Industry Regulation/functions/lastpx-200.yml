@@ -1,0 +1,278 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  lastpx2:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx3:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx4:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx5:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx6:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx7:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx8:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx9:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx10:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx11:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx12:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx13:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx14:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx15:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx16:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx17:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx18:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx19:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx20:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx21:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx22:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx23:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx24:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx25:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx26:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx27:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx28:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx29:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx30:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx31:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx32:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx33:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx34:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx35:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx36:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx37:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx38:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx39:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"
+  lastpx40:
+    lang: python3-flask
+    handler: ./lastpx
+    image: lastpx:latest
+    labels:
+      "com.openfaas.scale.max": "1"
+      "com.openfaas.scale.min": "1"

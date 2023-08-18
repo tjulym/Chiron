@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  pbkdf2-java:
+    lang: java11
+    handler: ./pbkdf2-java
+    image: pbkdf2-java:latest
+    labels:
+      "com.openfaas.scale.max": "1"

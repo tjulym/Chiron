@@ -1,0 +1,12 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  store-review:
+    lang: python3-flask
+    handler: ./store-review
+    image: store-review:latest
+    labels:
+      "com.openfaas.scale.max": "1" 
+      "com.openfaas.scale.min": "1"

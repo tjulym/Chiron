@@ -1,0 +1,4 @@
+python-memcached
+pymongo==3.11.0
+requests-futures
+psutil

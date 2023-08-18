@@ -1,0 +1,233 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:31112
+functions:
+  marketdata2:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata3:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata4:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata5:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata6:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata7:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata8:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata9:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata10:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata11:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata12:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata13:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata14:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata15:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata16:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata17:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata18:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata19:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
+  marketdata20:
+    lang: python3-flask-debian
+    handler: ./marketdata
+    image: marketdata:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+      handler_wait_duration: 1m
+    labels:
+      "com.openfaas.scale.min": "1"
+      "com.openfaas.scale.max": "1"
