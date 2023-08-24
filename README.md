@@ -19,5 +19,5 @@ This module is core of Chiron, which determines the `wraps` of workflow based on
 This module produces the orchestrator code of `wraps` based on the result of `Scheduler`. The details can be found in [Generator](https://github.com/tjulym/Chiron/tree/main/Generator).
 
 
-## Envaluation
-This sections contains a simple instruction for replaying our evaluation. The details can be found in [Envaluation](https://github.com/tjulym/Chiron/tree/main/Envaluation).
+## Evaluation
+This sections contains a simple instruction for replaying our evaluation. The details can be found in [Envaluation](https://github.com/tjulym/Chiron/tree/main/Evaluation).
