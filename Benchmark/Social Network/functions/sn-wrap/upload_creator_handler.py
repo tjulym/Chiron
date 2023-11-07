@@ -38,9 +38,9 @@ def handle(req):
         user_id_2 = mmc_user_id
     else:
         myquery = { "username": username }
-        mydoc = mycol.find(myquery)
-        if mydoc.count() > 0:
-            it = mydoc.next()
+        mydoc = list(mycol.find(myquery))
+        if len(mydoc) > 0:
+            it = mydoc[0]
             if "user_id" in it.keys():
                 user_id_2 = it["user_id"]
                 mc.set(username+":user_id", user_id_2)

@@ -27,15 +27,15 @@ def handle(req):
     timestamp = time()
 
     myquery = { "user_id": user_id }
-    mydoc = mycol.find(myquery)
+    mydoc = list(mycol.find(myquery))
 
-    if mydoc.count() == 0:
+    if len(mydoc) == 0:
         posts_j = {}
         posts_j[post_id] = timestamp
         mydict = {"user_id": user_id, "posts": json.dumps(posts_j)}
         mycol.insert_one(mydict)
     else:
-        posts_j = json.loads(mydoc.next()["posts"])
+        posts_j = json.loads(mydoc[0]["posts"])
         posts_j[post_id] = timestamp
         posts_update = {"$set": {"posts": json.dumps(posts_j)}}
         mycol.update_one(myquery, posts_update)

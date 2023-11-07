@@ -14,10 +14,10 @@ def get_followers(user_id):
     followers = []
 
     user_query = { "user_id": user_id }
-    user_doc = sgcol.find(user_query)
+    user_doc = list(sgcol.find(user_query))
 
-    if user_doc.count() > 0:
-        j = json.loads(user_doc.next()["followers"])
+    if len(user_doc) > 0:
+        j = json.loads(user_doc[0]["followers"])
         if len(j) > 0:
             followers.extend(j.keys())
 

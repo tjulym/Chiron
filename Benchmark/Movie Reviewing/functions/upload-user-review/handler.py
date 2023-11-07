@@ -28,9 +28,9 @@ def handle(req):
         timestamp = event["body"]["timestamp"]
 
         myquery = {"user_id": user_id}
-        mydoc = mycol.find(myquery)
-        if mydoc.count() > 0:
-            reviews = json.loads(mydoc.next()["reviews"])
+        mydoc = list(mycol.find(myquery))
+        if len(mydoc) > 0:
+            reviews = json.loads(mydoc[0]["reviews"])
             reviews.append((review_id, timestamp))
             reviews_update = {"$set": {"reviews": json.dumps(reviews)}}
             mycol.update_one(myquery, reviews_update)

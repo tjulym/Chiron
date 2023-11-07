@@ -52,9 +52,9 @@ def handle(req):
             response["body"] = {"movie_id": movie_id, 'rating': rating}
         else:
             myquery = { "title": title }
-            mydoc = mycol.find(myquery)
-            if mydoc.count() > 0:
-                it = mydoc.next()
+            mydoc = list(mycol.find(myquery))
+            if len(mydoc) > 0:
+                it = mydoc[0]
                 movie_id = it["movie_id"]
                 response["body"] = {"movie_id": movie_id, 'rating': rating}
                 mc.set(title_hash, movie_id)
