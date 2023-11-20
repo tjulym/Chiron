@@ -21,3 +21,23 @@ This module produces the orchestrator code of `wraps` based on the result of `Sc
 
 ## Evaluation
 This sections contains a simple instruction for replaying our evaluation. The details can be found in [Envaluation](https://github.com/tjulym/Chiron/tree/main/Evaluation).
+
+## Cite
+Welcome to cite [Chiron](https://dl.acm.org/doi/10.1145/3581784.3613211) in SC'23 by:
+```
+@inproceedings{10.1145/3581784.3613211,
+	author = {Li, Yiming and Zhao, Laiping and Yang, Yanan and Qu, Wenyu},
+	title = {Rethinking Deployment for Serverless Functions: A Performance-First Perspective},
+	year = {2023},
+	isbn = {9798400701092},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3581784.3613211},
+	doi = {10.1145/3581784.3613211},
+	articleno = {67},
+	numpages = {14},
+	keywords = {deployment model, serverless workflows, graph partition},
+	location = {Denver, CO, USA},
+	series = {SC '23}
+}
+``` 
