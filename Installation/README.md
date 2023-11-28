@@ -82,6 +82,11 @@ kubectl -n openfaas create secret generic basic-auth \
 --from-literal=basic-auth-password=admin
 ```
 
+Note that Openfaas seems to have deleted the mirror version used in the current project, so we need to import a local backup:
+```
+./install_imgs.sh
+```
+
 Then, install other components:
 ```
 kubectl apply -f ./yaml/
