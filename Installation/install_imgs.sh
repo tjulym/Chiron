@@ -1,2 +1,4 @@
-docker load -i imgs/gateway.tar
-docker load -i imgs/faas-netes.tar
+for file in `ls imgs`
+do
+  docker load -i imgs/$file
+done
